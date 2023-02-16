@@ -5,6 +5,7 @@ def createInvertedIndex(_documentSet):
     for _document in _documentSet:
         _docID += 1
         _tokenList = tokenize(_document)
+        
     return _invertedIndex
 
 def tokenize(_document):
