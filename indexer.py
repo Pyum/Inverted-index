@@ -1,4 +1,5 @@
 from collections import defaultdict
+from nltk.stem.porter import *
 
 def createInvertedIndex(_documentSet):
     _invertedIndex = defaultdict({"freq": 1, "list":[]})
@@ -15,11 +16,16 @@ def createInvertedIndex(_documentSet):
     return _invertedIndex
 
 def tokenize(_document):
+    _temptokeList = list()
     _tokenList = list()
-    #_tokenDict = defaultdict({"bold": false, "title": false, "header":"none"})
+    _stemmer = PorterStemmer()
+    #_tokenDict = defaultdict({"bold": false, "title": false, "header":"none"}) #Use later?
     #TODO
     #   Make sure there are no duplicates
     #   Do not get rid of stopwords
     #   Generalize words... with a library?
     #   Do we need BeautifulSoup again?
+
+    _tokenList = [_stemmer.stem(_word) for _word in _temptokeList] #Gets rid of plurals
+
     return _tokenList
