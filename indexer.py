@@ -19,9 +19,9 @@ def createInvertedIndex(_documentSet):
             _invertedIndex[_tokenWord]["list"].append(_docID)       #Add DocID (Base List)
             if _tokenWord["bold"]:                  #Is the word in bold in this document?
                 _invertedIndex[_tokenWord]["bold"].append(_docID)   #Add DocID (Bold List)
-            elif _tokenWord["title"]:               #Is the word in the title in this document?
+            if _tokenWord["title"]:               #Is the word in the title in this document?
                 _invertedIndex[_tokenWord]["title"].append(_docID)  #Add DocID (Title List)
-            elif _tokenWord["header"] != "none":    #Is the word in the header in this document?
+            if _tokenWord["header"] != "none":    #Is the word in the header in this document?
                 _invertedIndex[_tokenWord][_tokenWord["header"]].append(_docID) #Add DocID (Header Dict)
     return _invertedIndex
 
