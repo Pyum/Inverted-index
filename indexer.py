@@ -30,11 +30,19 @@ def tokenize(_document):
     _soup = BeautifulSoup(_document, 'html.parser')
     _bTags = [] 
     for i in _soup.findAll('b'):
-        _bTags.append(i.text) #TODO Do this for title and headers
+        _bTags.append(j.text for j in i.split(' ')) #Get all bold text
     _tTags = []
+    for i in _soup.findAll('title'):
+        _tTags.append(j.text for j in i.split(' ')) #Get all text in title
     _h1Tags = []
+    for i in _soup.findAll('h1'):
+        _h1Tags.append(j.text for j in i.split(' ')) #Get all text in all header 1
     _h2Tags = []
+    for i in _soup.findAll('h2'):
+        _h2Tags.append(j.text for j in i.split(' ')) #Get all text in all header 2
     _h3Tags = []
+    for i in _soup.findAll('h3'):
+        _h3Tags.append(j.text for j in i.split(' ')) #Get all text in all header 3
     _htmlText = _soup.get_text()
     _tokenList = list()
     _stemmer = PorterStemmer()
@@ -42,17 +50,15 @@ def tokenize(_document):
     _regExp = RegexpTokenizer('[a-zA-Z]+[\'a-zA-Z]*')
     _tokenList = _regExp.tokenize(_htmlText)
     for _word in _tokenList:
-        _tokenDict = _stemmer.stem(_word)
+        _tokenDict = _stemmer.stem(_word) #Gets rid of plurals
         if _word in _bTags:
-            _tokenDict[_stemmer.stem(_word)]["bold"] = True
+            _tokenDict[_stemmer.stem(_word)]["bold"] = True #Checking if word is bold 
         if _word in _tTags:
-            _tokenDict[_stemmer.stem(_word)]["title"] = True
+            _tokenDict[_stemmer.stem(_word)]["title"] = True #Checking if word is in the title
         if _word in _h1Tags:
-            _tokenDict[_stemmer.stem(_word)]["header"].append("h1")
+            _tokenDict[_stemmer.stem(_word)]["header"].append("h1") #Checking if word is in a header 1
         if _word in _h2Tags:
-            _tokenDict[_stemmer.stem(_word)]["header"].append("h2")
+            _tokenDict[_stemmer.stem(_word)]["header"].append("h2") #Checking if word is in a header 2
         if _word in _h3Tags:
-            _tokenDict[_stemmer.stem(_word)]["header"].append("h3")
-
-    _tokenDict = [_stemmer.stem(_word) for _word in _tokenList] #Gets rid of plurals
+            _tokenDict[_stemmer.stem(_word)]["header"].append("h3") #Checking if word is in a header 3
     return _tokenDict
