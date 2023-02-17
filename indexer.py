@@ -2,32 +2,32 @@ from collections import defaultdict
 from bs4 import BeautifulSoup
 from nltk.tokenize import RegexpTokenizer
 from nltk.stem.porter import *
+import json, os
 
-def createInvertedIndex(_documentSet):
-    _invertedIndex = defaultdict({"freq": 1, "list":[], "bold":[], "title":[], "header":{"h1":[], "h2":[],"h3":[]}})
-    #                            Frequency | DocIDs In | In Bolded | In Title | In Header  <Header it is in>    |
-    #                                                  |In Theory these should be a lot smaller                 |
-    _docID = 0
-    for _document in _documentSet:
-        _docID += 1
-        _tokenDict = tokenize(_document)
-        for _tokenWord in _tokenDict:
-            if _tokenWord in _invertedIndex:
-                _invertedIndex[_tokenWord]["freq"] += 1     #Add Frequency
-            else:
-                _invertedIndex[_tokenWord]      #Add to Dict
-            _invertedIndex[_tokenWord]["list"].append(_docID)       #Add DocID (Base List)
-            if _tokenWord["bold"]:                  #Is the word in bold in this document?
-                _invertedIndex[_tokenWord]["bold"].append(_docID)   #Add DocID (Bold List)
-            if _tokenWord["title"]:               #Is the word in the title in this document?
-                _invertedIndex[_tokenWord]["title"].append(_docID)  #Add DocID (Title List)
-            if len(_tokenWord["header"]) != 0:    #Is the word in the header in this document?
-                for _header in _tokenWord["header"]:
-                    _invertedIndex[_tokenWord][_header].append(_docID) #Add DocID (Header Dict)
+_invertedIndex = defaultdict({"freq": 1, "list":[], "bold":[], "title":[], "header":{"h1":[], "h2":[],"h3":[]}})
+#                               Frequency | DocIDs In | In Bolded | In Title | In Header  <Header it is in>    |
+#                                                     |In Theory these should be a lot smaller                 |
+
+def createInvertedIndex(_documentURL, _documentContent, _docID):
+    global _invertedIndex
+    _tokenDict = tokenize(_documentContent)
+    for _tokenWord in _tokenDict:
+        if _tokenWord in _invertedIndex:
+            _invertedIndex[_tokenWord]["freq"] += 1     #Add Frequency
+        else:
+            _invertedIndex[_tokenWord]      #Add to Dict
+        _invertedIndex[_tokenWord]["list"].append(_docID)       #Add DocID (Base List)
+        if _tokenWord["bold"]:                  #Is the word in bold in this document?
+            _invertedIndex[_tokenWord]["bold"].append(_docID)   #Add DocID (Bold List)
+        if _tokenWord["title"]:               #Is the word in the title in this document?
+            _invertedIndex[_tokenWord]["title"].append(_docID)  #Add DocID (Title List)
+        if len(_tokenWord["header"]) != 0:    #Is the word in the header in this document?
+            for _header in _tokenWord["header"]:
+                _invertedIndex[_tokenWord][_header].append(_docID) #Add DocID (Header Dict)
     return _invertedIndex
 
-def tokenize(_document):
-    _soup = BeautifulSoup(_document, 'html.parser')
+def tokenize(_documentContent):
+    _soup = BeautifulSoup(_documentContent, 'html.parser')
     _bTags = [] 
     for i in _soup.findAll('b'):
         _bTags.append(j.text for j in i.split(' ')) #Get all bold text
@@ -62,3 +62,16 @@ def tokenize(_document):
         if _word in _h3Tags:
             _tokenDict[_stemmer.stem(_word)]["header"].append("h3") #Checking if word is in a header 3
     return _tokenDict
+
+def openJson():
+    _docID = 0
+    for _folder in os.listdir("DEV"):
+        for _file in os.listdir("DEV/" + _folder):
+            f = open("DEV/" + _folder + "/" + _file)
+            _fileData = json.load(f)
+            _fileContent = _fileData["content"]
+            _fileURL = _fileData["url"]
+            
+            
+
+
