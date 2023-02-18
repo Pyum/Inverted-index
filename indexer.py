@@ -54,13 +54,11 @@ def tokenize(_documentContent):
     _htmlText = _soup.get_text()
     text = re.sub(r"[^a-zA-Z0-9]", " ", _htmlText) # remove all symbols before tokenizing
     _tokenList = nltk.word_tokenize(text)
-    #_tokenList = list()
     _stemmer = PorterStemmer()
     _tokenDict = defaultdict()
-    #_regExp = RegexpTokenizer('[a-zA-Z]+[\'a-zA-Z]*')
-    #_tokenList = _regExp.tokenize(_htmlText)
     for _word in _tokenList:
         _tokenDict[_stemmer.stem(_word)] = {"bold": False, "title": False, "header":[]} #Gets rid of plurals
+        '''
         if _word in _bTags:
             _tokenDict[_stemmer.stem(_word)]["bold"] = True #Checking if word is bold 
         if _word in _tTags:
@@ -71,6 +69,7 @@ def tokenize(_documentContent):
             _tokenDict[_stemmer.stem(_word)]["header"].append("h2") #Checking if word is in a header 2
         if _word in _h3Tags:
             _tokenDict[_stemmer.stem(_word)]["header"].append("h3") #Checking if word is in a header 3
+        '''
         UniqueWords.add(_stemmer.stem(_word))
     return _tokenDict
 
@@ -101,12 +100,14 @@ def main():
 
     _invertedIndexFile = open("InvertedIndex.txt", "w")
     _invertedIndexFile.write( str(len(InvertedIndex)) + " indexes\nWith size of " + str(sys.getsizeof(InvertedIndex)))
+    '''
     for keys, value in InvertedIndex.items():
         _invertedIndexFile.write( keys)
         for i in value:
             _invertedIndexFile.write(" " + i + " ")
-            _invertedIndexFile.write(value[i])
+            _invertedIndexFile.write(str(value[i]))
         _invertedIndexFile.write("\n")
+    '''
         
 
 if __name__ == '__main__':
