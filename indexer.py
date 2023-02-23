@@ -2,7 +2,7 @@ from collections import defaultdict
 from bs4 import BeautifulSoup
 from nltk.tokenize import RegexpTokenizer
 from nltk.stem.porter import *
-import json, os, sys, nltk, re
+import json, os, sys, nltk, re, time
 
 InvertedIndex = defaultdict()
 
@@ -166,43 +166,49 @@ def main():
     openJson()
     askQuery = True
     if askQuery:
-        _query = input("Indexing Complete...\nWhat would you like to seach for:\n")
-        _setOfQueryWords = tokenizeQuery(_query)
-        _listOfQueryWords = list(_setOfQueryWords)
-        _finDict = defaultdict(int)
-        if len(_listOfQueryWords) == 1:
-            for _docID in InvertedIndex[_listOfQueryWords[0]]["list"]:
-                _finDict[_docID] = 1
-                if _docID in InvertedIndex[_listOfQueryWords[0]]["bold"]:
-                    _finDict[_docID] += 15
-                if _docID in InvertedIndex[_listOfQueryWords[0]]["title"]:
-                    _finDict[_docID] += 100
-                if len(InvertedIndex[_listOfQueryWords[0]]["header"]) != 0:
-                    _headNum = 3
-                    for _header in InvertedIndex[_listOfQueryWords[0]]["header"].values():
-                        if _docID in _header:
-                            _finDict[_docID] += (25 * _headNum)
-                        _headNum -= 1
-        while len(_listOfQueryWords) != 1:
-            _word1 = _listOfQueryWords[0]
-            _listOfQueryWords = _listOfQueryWords[1:]
-            _dict1 = intersect(_word1, _listOfQueryWords[0])
-            _finDict = combineDicts(_dict1, _finDict)
-        _maxList = 5
-        _finalList = []
-        _searchProductFile = open("SeachProduct.txt", "w")
-        for keys, value in sorted(_finDict.items(), key=lambda x:(x[1], x[-1]), reverse=True):
-            _finalList.append(keys)
-            _maxList -= 1
-            if _maxList == 0:
+        print("Indexing Complete...")
+        while True:
+            _query = input("What would you like to seach for:\n")
+            _startTime = time.time()
+            if _query == "end":
                 break
-        _finalList = getlinks(_finalList)
-        for i in _finalList:
-            _searchProductFile.write(str(i)+"\n")
-
-
-        
-
+            _setOfQueryWords = tokenizeQuery(_query)
+            _listOfQueryWords = [item for item in list(_setOfQueryWords) if item in InvertedIndex]
+            _finDict = defaultdict(int)
+            if len(_listOfQueryWords) == 1:
+                for _docID in InvertedIndex[_listOfQueryWords[0]]["list"]:
+                    _finDict[_docID] = 1
+                    if _docID in InvertedIndex[_listOfQueryWords[0]]["bold"]:
+                        _finDict[_docID] += 15
+                    if _docID in InvertedIndex[_listOfQueryWords[0]]["title"]:
+                        _finDict[_docID] += 100
+                    if len(InvertedIndex[_listOfQueryWords[0]]["header"]) != 0:
+                        _headNum = 3
+                        for _header in InvertedIndex[_listOfQueryWords[0]]["header"].values():
+                            if _docID in _header:
+                                _finDict[_docID] += (25 * _headNum)
+                            _headNum -= 1
+            while len(_listOfQueryWords) > 1:
+                _word1 = _listOfQueryWords[0]
+                _listOfQueryWords = _listOfQueryWords[1:]
+                _dict1 = intersect(_word1, _listOfQueryWords[0])
+                _finDict = combineDicts(_dict1, _finDict)
+            _maxList = 5
+            _finalList = []
+            _searchProductFile = open("SeachProduct.txt", "w")
+            for keys, value in sorted(_finDict.items(), key=lambda x:(x[1], x[-1]), reverse=True):
+                _finalList.append(keys)
+                _maxList -= 1
+                if _maxList == 0:
+                    break
+            _finalList = getlinks(_finalList)
+            for i in _finalList:
+                _searchProductFile.write(str(i)+"\n")
+             
+            _endtime = time.time()
+            _searchProductFile.write("\nQuery was:" + _query + "\nThe search took " +str((_endtime - _startTime)*1000) + " milliseconds")
+            _searchProductFile.close()
+            print('Execution time:', str((_endtime - _startTime)*1000), 'milliseconds')
 
     _uniqueWordsFile = open("UniqueWords.txt", "w")
     _uniqueWordsFile.write( str(len(UniqueWords)) + " words\n")
@@ -214,10 +220,13 @@ def main():
     _invertedIndexFile.write( str(len(InvertedIndex)) + " indexes\nWith size of " + str(sys.getsizeof(InvertedIndex)) + "\n\n")
 
     for keys, value in InvertedIndex.items():
-        _invertedIndexFile.write(keys + "\n     ")
+        _invertedIndexFile.write(keys + ":{")
         for i in value:
-            _invertedIndexFile.write(" " + i + " ")
-            _invertedIndexFile.write(str(value[i]) + "\n     ")
+            _invertedIndexFile.write(i+":"+str(value[i]))
+            if i != 'header':
+                _invertedIndexFile.write(",")
+            else:
+                _invertedIndexFile.write("}")
         _invertedIndexFile.write("\n")
 
 

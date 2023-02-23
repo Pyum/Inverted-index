@@ -1,5 +1,8 @@
-http://alderis.ics.uci.edu/publications.html
-http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+exposed+to+turbulent+gas+mixtures
-http://archive.ics.uci.edu/ml/datasets/MicroMass
-http://archive.ics.uci.edu/ml/machine-learning-databases/00255/
-http://archive.ics.uci.edu/ml/support/IPUMS+Census+Database#8931d2a4a8256ea88abea3ea3ac820fd421ce0b1
+https://mswe.ics.uci.edu/
+https://www.informatics.uci.edu/grad/ms-software-engineering/
+https://www.informatics.uci.edu/grad/phd-software-engineering/
+https://www.informatics.uci.edu/undergrad/bs-software-engineering/#content
+https://www.informatics.uci.edu/undergrad/bs-software-engineering/
+
+Query was:master of software engineering
+The search took 2301.2211322784424 milliseconds
