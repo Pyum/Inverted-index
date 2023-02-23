@@ -107,28 +107,57 @@ def openJson():
 
 def intersect (_word1, _word2):
     global InvertedIndex
-    _finalLst = []
+    _finalDict = defaultdict(int)
     _firstWord = _word1
     _secondWord = _word2
-    if InvertedIndex[_word2]["freq"] < InvertedIndex[_word1]["freq"]:
+    if InvertedIndex[_word1]["freq"] < InvertedIndex[_word2]["freq"]:
         _firstWord = _word2
         _secondWord = _word1
     for _docID in InvertedIndex[_firstWord]["list"]:
             if _docID in InvertedIndex[_secondWord]["list"]:
-                _finalLst.addpend(_docID)
-    return _finalLst
+                _finalDict[_docID] = 2
+                if _docID in InvertedIndex[_secondWord]["bold"]:
+                    _finalDict[_docID] += 15
+                if _docID in InvertedIndex[_secondWord]["title"]:
+                    _finalDict[_docID] += 100
+                if len(InvertedIndex[_secondWord]["header"]) != 0:
+                    _headNum = 3
+                    for _header in InvertedIndex[_secondWord]["header"].values():
+                        if _docID in _header:
+                            _finalDict[_docID] += (25 * _headNum)
+                        _headNum -= 1
+                if _docID in InvertedIndex[_firstWord]["bold"]:
+                        _finalDict[_docID] += 15
+                if _docID in InvertedIndex[_firstWord]["title"]:
+                    _finalDict[_docID] += 100
+                if len(InvertedIndex[_firstWord]["header"]) != 0:
+                    _headNum = 3
+                    for _header in InvertedIndex[_firstWord]["header"].values():
+                        if _docID in _header:
+                            _finalDict[_docID] += (25 * _headNum)
+                        _headNum -= 1
+    return _finalDict
 
-def getlinks (listOfDocID):
+def combineDicts (_dict1, _dict2):
+    _finDict = defaultdict(int)
+    if len(_dict2) == 0:
+        return _dict1
+    for i in _dict1.keys():
+        if i in _dict2.keys():
+            _finDict[i] = _dict1[i] + _dict1[i]
+    return _finDict
+
+def getlinks (_listOfDocID):
     _docID = 0
-    _linksList = []
+    _finList = []
     for _folder in os.listdir("DEV"):
         for _file in os.listdir("DEV/" + _folder):
             _docID += 1
-            if _docID in listOfDocID:
+            if _docID in _listOfDocID:
                 f = open("DEV/" + _folder + "/" + _file)
                 _fileData = json.load(f)
-                _linksList.append(_fileData["url"])
-    return _linksList
+                _finList.append(_fileData["url"])
+    return _finList
 
 
 def main():
@@ -138,7 +167,40 @@ def main():
     askQuery = True
     if askQuery:
         _query = input("Indexing Complete...\nWhat would you like to seach for:\n")
-        _listOfQueryWords = tokenizeQuery(_query)
+        _setOfQueryWords = tokenizeQuery(_query)
+        _listOfQueryWords = list(_setOfQueryWords)
+        _finDict = defaultdict(int)
+        if len(_listOfQueryWords) == 1:
+            for _docID in InvertedIndex[_listOfQueryWords[0]]["list"]:
+                _finDict[_docID] = 1
+                if _docID in InvertedIndex[_listOfQueryWords[0]]["bold"]:
+                    _finDict[_docID] += 15
+                if _docID in InvertedIndex[_listOfQueryWords[0]]["title"]:
+                    _finDict[_docID] += 100
+                if len(InvertedIndex[_listOfQueryWords[0]]["header"]) != 0:
+                    _headNum = 3
+                    for _header in InvertedIndex[_listOfQueryWords[0]]["header"].values():
+                        if _docID in _header:
+                            _finDict[_docID] += (25 * _headNum)
+                        _headNum -= 1
+        while len(_listOfQueryWords) != 1:
+            _word1 = _listOfQueryWords[0]
+            _listOfQueryWords = _listOfQueryWords[1:]
+            _dict1 = intersect(_word1, _listOfQueryWords[0])
+            _finDict = combineDicts(_dict1, _finDict)
+        _maxList = 5
+        _finalList = []
+        _searchProductFile = open("SeachProduct.txt", "w")
+        for keys, value in sorted(_finDict.items(), key=lambda x:(x[1], x[-1]), reverse=True):
+            _finalList.append(keys)
+            _maxList -= 1
+            if _maxList == 0:
+                break
+        _finalList = getlinks(_finalList)
+        for i in _finalList:
+            _searchProductFile.write(str(i)+"\n")
+
+
         
 
 

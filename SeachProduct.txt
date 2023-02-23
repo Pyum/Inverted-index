@@ -1,0 +1,5 @@
+http://alderis.ics.uci.edu/publications.html
+http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+exposed+to+turbulent+gas+mixtures
+http://archive.ics.uci.edu/ml/datasets/MicroMass
+http://archive.ics.uci.edu/ml/machine-learning-databases/00255/
+http://archive.ics.uci.edu/ml/support/IPUMS+Census+Database#8931d2a4a8256ea88abea3ea3ac820fd421ce0b1
