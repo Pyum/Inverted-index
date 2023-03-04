@@ -1,0 +1,16 @@
+zero:{freq:5,list:[3, 49, 62, 73, 74],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zip:{freq:5,list:[7, 12, 44, 59, 75],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zoltan:{freq:2,list:[18, 86],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zeiger:{freq:2,list:[18, 86],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zurich:{freq:5,list:[27, 44, 59, 78, 89],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zoolog:{freq:5,list:[35, 64, 85, 120, 156],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zago:{freq:2,list:[44, 61],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zhang:{freq:6,list:[44, 61, 64, 85, 123, 166],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zone:{freq:8,list:[44, 61, 62, 64, 85, 95, 120, 156],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+z:{freq:2,list:[55, 62],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zubairova:{freq:2,list:[120, 156],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zybook:{freq:4,list:[181, 192, 196, 206],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zotbil:{freq:2,list:[181, 196],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zarkiprofessormultimedia:{freq:1,list:[186],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ziv:{freq:1,list:[194],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zeti:{freq:1,list:[218],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}

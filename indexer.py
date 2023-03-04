@@ -8,6 +8,57 @@ InvertedIndex = defaultdict()
 
 UniqueWords = set()
 
+def clearInvertedIndex():
+    global InvertedIndex
+    for _indexName, _indexValue in InvertedIndex.items():
+        _fileName = "indexes/" + str(_indexName[0]) + ".txt"
+        _file = open(_fileName, "r+")
+        _line = _file.readline()
+        if _line != '':
+            while True:
+                _match = re.search(r'(\w+):{f', _line)
+                if _indexName == _match.group(1):
+                    _indexDict, _lineNum = getWordFromIndexes(_indexName)
+                    _indexDict[_indexName]['freq'] += _indexValue['freq']
+                    _indexDict[_indexName]['list'].extend(_indexValue['list'])
+                    _indexDict[_indexName]['bold'].extend(_indexValue['bold'])
+                    _indexDict[_indexName]['title'].extend(_indexValue['title'])
+                    _indexDict[_indexName]['header']['h1'].extend(_indexValue['header']['h1'])
+                    _indexDict[_indexName]['header']['h2'].extend(_indexValue['header']['h2'])
+                    _indexDict[_indexName]['header']['h3'].extend(_indexValue['header']['h3'])
+                    replaceLine(_fileName, _lineNum, dictToString(_indexDict))
+                    break
+                _line = _file.readline()
+                if _line == '':
+                    _file.write(_indexName + ":{")
+                    for i in _indexValue:
+                        _file.write(i+":"+str(_indexValue[i]))
+                        if i != 'header':
+                            _file.write(",")
+                        else:
+                            _file.write("}")
+                    _file.write("\n")
+                    break
+        else:
+            _file.write(_indexName + ":{")
+            for i in _indexValue:
+                _file.write(i+":"+str(_indexValue[i]))
+                if i != 'header':
+                    _file.write(",")
+                else:
+                    _file.write("}")
+            _file.write("\n")
+        _file.close()
+    InvertedIndex = defaultdict()
+    return
+
+def replaceLine(_fileName, _lineNum, _text): #From StackOverflow
+    lines = open(_fileName, 'r').readlines()
+    lines[_lineNum] = _text
+    out = open(_fileName, 'w')
+    out.writelines(lines)
+    out.close()
+
 def addInvertedIndex(_documentURL, _documentContent, _docID):
     global InvertedIndex
     _tokenDict = tokenize(_documentContent)
@@ -93,7 +144,7 @@ def tokenize(_documentContent):
 
 def openJson():
     _docID = 0
-    for _folder in os.listdir("DEV"):
+    for _folder in os.listdir("DEVTEST"):
         print("In folder " + _folder)
         for _file in os.listdir("DEV/" + _folder):
             _docID += 1
@@ -103,7 +154,38 @@ def openJson():
             _fileContent = _fileData["content"]
             _fileURL = _fileData["url"]
             addInvertedIndex(_fileURL, _fileContent, _docID)
+            clearInvertedIndex()
     return
+
+def getWordFromIndexes(_word): #word should have already been PorterStemmer()
+    _lineNum = 0
+    _fileName = "indexes/" + str(_word[0]) + ".txt"
+    _file = open(_fileName, "r")
+    _regExp = r'(\w+):{freq:([\d]+),list:\[([\d, ]*)],bold:\[([\d, ]*)],title:\[([\d, ]*)],header:{\'h1\': \[([\d, ]*)], \'h2\': \[([\d, ]*)], \'h3\': \[([\d, ]*)]}}' #Do I ahve to escape the \ ??
+    while True:
+        _line = _file.readline()
+        if _line == "":
+            break
+        _match = re.search(_regExp, _line)
+        if _match.group(1) == _word:
+            _bold = []
+            if len(_match.group(4)) != 0:
+                _bold = [int(_docID) for _docID in _match.group(4).split(', ')]
+            _title = []
+            if len(_match.group(5)) != 0:
+                _title = [int(_docID) for _docID in _match.group(5).split(', ')]
+            _header = {'h1':[], 'h2':[], 'h3':[]}
+            if len(_match.group(6)) != 0:
+                _header['h1'] = [int(_docID) for _docID in _match.group(6).split(', ')]
+            if len(_match.group(7)) != 0:
+                _header['h2'] = [int(_docID) for _docID in _match.group(7).split(', ')]
+            if len(_match.group(8)) != 0:
+                _header['h3'] = [int(_docID) for _docID in _match.group(8).split(', ')]
+            _file.close()
+            return ({_match.group(1): {'freq':int(_match.group(2)), 'list':[int(_docID) for _docID in _match.group(3).split(', ')], 'bold':_bold, 'title':_title, 'header':_header}}, _lineNum)
+        _lineNum += 1
+    _file.close()
+    return ({_word: {"freq": 0, "list":[], "bold":[], "title":[], "header":{"h1":[], "h2":[],"h3":[]}}}, -1)
 
 def intersect (_word1, _word2):
     global InvertedIndex
@@ -159,6 +241,18 @@ def getlinks (_listOfDocID):
                 _finList.append(_fileData["url"])
     return _finList
 
+def dictToString(_dict): #Should be a 1 item dict :fearful:
+    _finString = ''
+    for keys, value in _dict.items():
+        _finString += keys + ":{"
+        for i in value:
+            _finString += i + ":" + str(value[i])
+            if i != 'header':
+                _finString += ","
+            else:
+                _finString += "}"
+        _finString += "\n"
+    return _finString
 
 def main():
     global UniqueWords, InvertedIndex
@@ -176,15 +270,16 @@ def main():
             _listOfQueryWords = [item for item in list(_setOfQueryWords) if item in InvertedIndex]
             _finDict = defaultdict(int)
             if len(_listOfQueryWords) == 1:
-                for _docID in InvertedIndex[_listOfQueryWords[0]]["list"]:
+                _wordIndex = getWordFromIndexes(_listOfQueryWords[0])
+                for _docID in _wordIndex["list"]:
                     _finDict[_docID] = 1
-                    if _docID in InvertedIndex[_listOfQueryWords[0]]["bold"]:
+                    if _docID in _wordIndex["bold"]:
                         _finDict[_docID] += 15
-                    if _docID in InvertedIndex[_listOfQueryWords[0]]["title"]:
+                    if _docID in _wordIndex["title"]:
                         _finDict[_docID] += 100
-                    if len(InvertedIndex[_listOfQueryWords[0]]["header"]) != 0:
+                    if len(_wordIndex["header"]) != 0:
                         _headNum = 3
-                        for _header in InvertedIndex[_listOfQueryWords[0]]["header"].values():
+                        for _header in _wordIndex["header"].values():
                             if _docID in _header:
                                 _finDict[_docID] += (25 * _headNum)
                             _headNum -= 1
@@ -228,10 +323,7 @@ def main():
             else:
                 _invertedIndexFile.write("}")
         _invertedIndexFile.write("\n")
-
-
-
-        
+    _invertedIndexFile.close()
 
 if __name__ == '__main__':
     main()

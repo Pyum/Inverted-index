@@ -1,8 +1,3 @@
-https://mswe.ics.uci.edu/
-https://www.informatics.uci.edu/grad/ms-software-engineering/
-https://www.informatics.uci.edu/grad/phd-software-engineering/
-https://www.informatics.uci.edu/undergrad/bs-software-engineering/#content
-https://www.informatics.uci.edu/undergrad/bs-software-engineering/
 
-Query was:master of software engineering
-The search took 2301.2211322784424 milliseconds
+Query was:exit
+The search took 36.38172149658203 milliseconds
