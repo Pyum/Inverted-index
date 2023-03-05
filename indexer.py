@@ -5,6 +5,7 @@ from nltk.stem.porter import *
 import json, os, sys, nltk, re, time
 
 InvertedIndex = defaultdict()
+LinkIndex = defaultdict()
 
 UniqueWords = set()
 
@@ -12,52 +13,18 @@ def clearInvertedIndex():
     global InvertedIndex
     for _indexName, _indexValue in InvertedIndex.items():
         _fileName = "indexes/" + str(_indexName[0]) + ".txt"
-        _file = open(_fileName, "r+")
-        _line = _file.readline()
-        if _line != '':
-            while True:
-                _match = re.search(r'(\w+):{f', _line)
-                if _indexName == _match.group(1):
-                    _indexDict, _lineNum = getWordFromIndexes(_indexName)
-                    _indexDict[_indexName]['freq'] += _indexValue['freq']
-                    _indexDict[_indexName]['list'].extend(_indexValue['list'])
-                    _indexDict[_indexName]['bold'].extend(_indexValue['bold'])
-                    _indexDict[_indexName]['title'].extend(_indexValue['title'])
-                    _indexDict[_indexName]['header']['h1'].extend(_indexValue['header']['h1'])
-                    _indexDict[_indexName]['header']['h2'].extend(_indexValue['header']['h2'])
-                    _indexDict[_indexName]['header']['h3'].extend(_indexValue['header']['h3'])
-                    replaceLine(_fileName, _lineNum, dictToString(_indexDict))
-                    break
-                _line = _file.readline()
-                if _line == '':
-                    _file.write(_indexName + ":{")
-                    for i in _indexValue:
-                        _file.write(i+":"+str(_indexValue[i]))
-                        if i != 'header':
-                            _file.write(",")
-                        else:
-                            _file.write("}")
-                    _file.write("\n")
-                    break
-        else:
-            _file.write(_indexName + ":{")
-            for i in _indexValue:
-                _file.write(i+":"+str(_indexValue[i]))
-                if i != 'header':
-                    _file.write(",")
-                else:
-                    _file.write("}")
-            _file.write("\n")
+        _file = open(_fileName, "a")
+        _file.write(_indexName + ":{")
+        for i in _indexValue:
+            _file.write(i+":"+str(_indexValue[i]))
+            if i != 'header':
+                _file.write(",")
+            else:
+                _file.write("}")
+        _file.write("\n")
         _file.close()
     InvertedIndex = defaultdict()
     return
-
-def replaceLine(_fileName, _lineNum, _text): #From StackOverflow
-    lines = open(_fileName, 'r').readlines()
-    lines[_lineNum] = _text
-    out = open(_fileName, 'w')
-    out.writelines(lines)
-    out.close()
 
 def addInvertedIndex(_documentURL, _documentContent, _docID):
     global InvertedIndex
@@ -119,8 +86,6 @@ def tokenize(_documentContent):
                 for k in j.split("\n"):
                     _h3Tags.add(_stemmer.stem(k)) #Get all text in all header 3
     _htmlText = _soup.get_text()
-    #text = re.sub(r"[^a-zA-Z0-9]", " ", _htmlText) # remove all symbols before tokenizing
-    #_tokenList = nltk.word_tokenize(text)
     _regExp = RegexpTokenizer('[a-zA-Z]+')
     _tempTokenList = _regExp.tokenize(_htmlText)
     _tokenList = [nltk.word_tokenize(_token) for _token in _tempTokenList]
@@ -143,6 +108,7 @@ def tokenize(_documentContent):
     return _tokenDict
 
 def openJson():
+    global LinkIndex
     _docID = 0
     for _folder in os.listdir("DEVTEST"):
         print("In folder " + _folder)
@@ -153,8 +119,8 @@ def openJson():
             _fileData = json.load(f)
             _fileContent = _fileData["content"]
             _fileURL = _fileData["url"]
+            LinkIndex[_docID] = _fileURL
             addInvertedIndex(_fileURL, _fileContent, _docID)
-            clearInvertedIndex()
     return
 
 def getWordFromIndexes(_word): #word should have already been PorterStemmer()
@@ -188,33 +154,29 @@ def getWordFromIndexes(_word): #word should have already been PorterStemmer()
     return ({_word: {"freq": 0, "list":[], "bold":[], "title":[], "header":{"h1":[], "h2":[],"h3":[]}}}, -1)
 
 def intersect (_word1, _word2):
-    global InvertedIndex
     _finalDict = defaultdict(int)
-    _firstWord = _word1
-    _secondWord = _word2
-    if InvertedIndex[_word1]["freq"] < InvertedIndex[_word2]["freq"]:
-        _firstWord = _word2
-        _secondWord = _word1
-    for _docID in InvertedIndex[_firstWord]["list"]:
-            if _docID in InvertedIndex[_secondWord]["list"]:
+    _dictofWord1 = getWordFromIndexes(_word1)[0]
+    _dictofWord2 = getWordFromIndexes(_word2)[0]
+    for _docID in _dictofWord1[_word1]["list"]:
+            if _docID in _dictofWord2[_word2]["list"]:
                 _finalDict[_docID] = 2
-                if _docID in InvertedIndex[_secondWord]["bold"]:
+                if _docID in _dictofWord2[_word2]["bold"]:
                     _finalDict[_docID] += 15
-                if _docID in InvertedIndex[_secondWord]["title"]:
+                if _docID in _dictofWord2[_word2]["title"]:
                     _finalDict[_docID] += 100
-                if len(InvertedIndex[_secondWord]["header"]) != 0:
+                if len(_dictofWord2[_word2]["header"]) != 0:
                     _headNum = 3
-                    for _header in InvertedIndex[_secondWord]["header"].values():
+                    for _header in _dictofWord2[_word2]["header"].values():
                         if _docID in _header:
                             _finalDict[_docID] += (25 * _headNum)
                         _headNum -= 1
-                if _docID in InvertedIndex[_firstWord]["bold"]:
+                if _docID in _dictofWord1[_word1]["bold"]:
                         _finalDict[_docID] += 15
-                if _docID in InvertedIndex[_firstWord]["title"]:
+                if _docID in _dictofWord1[_word1]["title"]:
                     _finalDict[_docID] += 100
-                if len(InvertedIndex[_firstWord]["header"]) != 0:
+                if len(_dictofWord1[_word1]["header"]) != 0:
                     _headNum = 3
-                    for _header in InvertedIndex[_firstWord]["header"].values():
+                    for _header in _dictofWord1[_word1]["header"].values():
                         if _docID in _header:
                             _finalDict[_docID] += (25 * _headNum)
                         _headNum -= 1
@@ -230,16 +192,11 @@ def combineDicts (_dict1, _dict2):
     return _finDict
 
 def getlinks (_listOfDocID):
-    _docID = 0
-    _finList = []
-    for _folder in os.listdir("DEV"):
-        for _file in os.listdir("DEV/" + _folder):
-            _docID += 1
-            if _docID in _listOfDocID:
-                f = open("DEV/" + _folder + "/" + _file)
-                _fileData = json.load(f)
-                _finList.append(_fileData["url"])
-    return _finList
+    global LinkIndex
+    _listOfLink = []
+    for _docID in _listOfDocID:
+        _listOfLink.append(LinkIndex[_docID])
+    return _listOfLink
 
 def dictToString(_dict): #Should be a 1 item dict :fearful:
     _finString = ''
@@ -257,8 +214,11 @@ def dictToString(_dict): #Should be a 1 item dict :fearful:
 def main():
     global UniqueWords, InvertedIndex
     nltk.download('punkt')
-    openJson()
+    makeIndex = True #Ran on 3/4/23 @ 5:18PM
     askQuery = True
+    if makeIndex:
+        openJson()
+        clearInvertedIndex()
     if askQuery:
         print("Indexing Complete...")
         while True:
@@ -267,19 +227,19 @@ def main():
             if _query == "end":
                 break
             _setOfQueryWords = tokenizeQuery(_query)
-            _listOfQueryWords = [item for item in list(_setOfQueryWords) if item in InvertedIndex]
+            _listOfQueryWords = [item for item in _setOfQueryWords]
             _finDict = defaultdict(int)
             if len(_listOfQueryWords) == 1:
-                _wordIndex = getWordFromIndexes(_listOfQueryWords[0])
-                for _docID in _wordIndex["list"]:
+                _wordIndex = getWordFromIndexes(_listOfQueryWords[0])[0]
+                for _docID in _wordIndex[_listOfQueryWords[0]]["list"]:
                     _finDict[_docID] = 1
-                    if _docID in _wordIndex["bold"]:
+                    if _docID in _wordIndex[_listOfQueryWords[0]]["bold"]:
                         _finDict[_docID] += 15
-                    if _docID in _wordIndex["title"]:
+                    if _docID in _wordIndex[_listOfQueryWords[0]]["title"]:
                         _finDict[_docID] += 100
-                    if len(_wordIndex["header"]) != 0:
+                    if len(_wordIndex[_listOfQueryWords[0]]["header"]) != 0:
                         _headNum = 3
-                        for _header in _wordIndex["header"].values():
+                        for _header in _wordIndex[_listOfQueryWords[0]]["header"].values():
                             if _docID in _header:
                                 _finDict[_docID] += (25 * _headNum)
                             _headNum -= 1
@@ -310,20 +270,6 @@ def main():
     for i in UniqueWords:
         _uniqueWordsFile.write( i + "\n")
     _uniqueWordsFile.close() 
-
-    _invertedIndexFile = open("InvertedIndex.txt", "w")
-    _invertedIndexFile.write( str(len(InvertedIndex)) + " indexes\nWith size of " + str(sys.getsizeof(InvertedIndex)) + "\n\n")
-
-    for keys, value in InvertedIndex.items():
-        _invertedIndexFile.write(keys + ":{")
-        for i in value:
-            _invertedIndexFile.write(i+":"+str(value[i]))
-            if i != 'header':
-                _invertedIndexFile.write(",")
-            else:
-                _invertedIndexFile.write("}")
-        _invertedIndexFile.write("\n")
-    _invertedIndexFile.close()
 
 if __name__ == '__main__':
     main()
