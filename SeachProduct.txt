@@ -1,3 +1,8 @@
+http://sli.ics.uci.edu/Classes/2014W-178
+http://sli.ics.uci.edu/Classes/2015W-273a
+http://sli.ics.uci.edu/Classes/2013F-273a
+http://sli.ics.uci.edu/Classes/2011W-178
+http://sli.ics.uci.edu/Classes/2012F-273a
 
-Query was:pizza
-The search took 43.863773345947266 milliseconds
+Query was:use if machine learning
+The search took 1483.0381870269775 milliseconds

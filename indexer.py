@@ -110,7 +110,7 @@ def tokenize(_documentContent):
 def openJson():
     global LinkIndex
     _docID = 0
-    for _folder in os.listdir("DEVTEST"):
+    for _folder in os.listdir("DEV"):
         print("In folder " + _folder)
         for _file in os.listdir("DEV/" + _folder):
             _docID += 1
@@ -192,11 +192,16 @@ def combineDicts (_dict1, _dict2):
     return _finDict
 
 def getlinks (_listOfDocID):
-    global LinkIndex
-    _listOfLink = []
-    for _docID in _listOfDocID:
-        _listOfLink.append(LinkIndex[_docID])
-    return _listOfLink
+    _docID = 0
+    _finList = []
+    for _folder in os.listdir("DEV"):
+        for _file in os.listdir("DEV/" + _folder):
+            _docID += 1
+            if _docID in _listOfDocID:
+                f = open("DEV/" + _folder + "/" + _file)
+                _fileData = json.load(f)
+                _finList.append(_fileData["url"])
+    return _finList
 
 def dictToString(_dict): #Should be a 1 item dict :fearful:
     _finString = ''
@@ -214,13 +219,13 @@ def dictToString(_dict): #Should be a 1 item dict :fearful:
 def main():
     global UniqueWords, InvertedIndex
     nltk.download('punkt')
-    makeIndex = True #Ran on 3/4/23 @ 5:18PM
+    makeIndex = False #Ran on 3/5/23 @ 1:17AM Ended @ 2:52AM
     askQuery = True
     if makeIndex:
         openJson()
         clearInvertedIndex()
-    if askQuery:
         print("Indexing Complete...")
+    if askQuery:
         while True:
             _query = input("What would you like to seach for:\n")
             _startTime = time.time()
