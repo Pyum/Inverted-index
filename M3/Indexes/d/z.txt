@@ -1,0 +1,115 @@
+dzialoszyc:{freq:65,list:[22463, 23272, 23478, 23494, 23960, 25167, 25457, 25736, 26378, 27156, 27182, 27450, 28836, 30940, 31067, 31201, 31643, 31821, 32214, 34525, 34917, 35007, 35035, 35370, 36347, 36449, 37044, 37276, 37885, 38003, 38614, 39002, 39373, 40899, 41091, 41156, 41510, 41926, 42969, 43505, 43556, 43714, 46870, 46881, 46972, 47268, 48148, 48295, 48314, 48591, 49277, 49477, 49688, 49915, 50057, 50222, 51466, 51988, 52027, 52495, 52613, 52780, 53181, 53255, 53515],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzip:{freq:30,list:[1352, 1637, 1664, 1758, 1914, 2113, 2171, 2267, 2296, 2318, 2523, 2611, 2678, 2737, 2738, 2753, 2840, 3113, 3170, 3202, 3384, 3601, 3660, 3671, 3744, 3823, 4203, 4262, 4296, 4329],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzbfe:{freq:25,list:[8017, 8091, 8738, 8971, 9172, 9950, 10340, 10663, 10748, 11452, 11612, 12309, 12699, 13633, 13741, 13784, 14136, 14536, 14787, 15173, 15177, 15209, 15654, 15783, 15803],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dz:{freq:10,list:[199, 630, 26555, 33044, 34149, 34393, 40172, 43795, 49818, 51134],bold:[],title:[33044],header:{'h1': [], 'h2': [33044], 'h3': []}}
+dzeroski:{freq:9,list:[99, 117, 243, 282, 434, 930, 1034, 1150, 1192],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzf:{freq:6,list:[2171, 2318, 2611, 2937, 3316, 3771],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dziej:{freq:4,list:[26835, 34702, 44452, 51047],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzo:{freq:3,list:[16946, 34149, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzunukwa:{freq:3,list:[25022, 47510, 47904],bold:[],title:[25022],header:{'h1': [], 'h2': [25022], 'h3': []}}
+dzeren:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dziggetai:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzq:{freq:3,list:[25859, 33969, 37366],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dziedzic:{freq:3,list:[27123, 39453, 51190],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzgvlwfwi:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzr:{freq:2,list:[2318, 3771],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzi:{freq:2,list:[12501, 39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzh:{freq:2,list:[22533, 34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzierzawca:{freq:2,list:[27123, 51190],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzia:{freq:2,list:[29927, 39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzyn:{freq:2,list:[30601, 33857],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzialoszyn:{freq:2,list:[35370, 38003],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzialowski:{freq:2,list:[39379, 49330],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzhaughnroth:{freq:1,list:[16946],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzm:{freq:1,list:[22533],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzn:{freq:1,list:[22533],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzx:{freq:1,list:[22533],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dziewiecki:{freq:1,list:[23960],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dziewicka:{freq:1,list:[23960],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzunuk:{freq:1,list:[25022],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dziza:{freq:1,list:[28894],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzikev:{freq:1,list:[28965],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzierzowka:{freq:1,list:[29294],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzialoszynski:{freq:1,list:[30940],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzialoscynski:{freq:1,list:[30940],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dziewiatniczi:{freq:1,list:[31020],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dziewin:{freq:1,list:[31067],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzwikozi:{freq:1,list:[31402],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzialoczyc:{freq:1,list:[33573],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dznz:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzxfyk:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzozwvluy:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzopjuvay:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzllpggyenszmmmepyl:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzmmyyt:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzz:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzza:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzzxhi:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzb:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dztajyl:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzov:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzwxk:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzv:{freq:1,list:[34450],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzierzanowski:{freq:1,list:[34751],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dziewiecmezi:{freq:1,list:[34751],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzierzgon:{freq:1,list:[38003],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzierzoniow:{freq:1,list:[38003],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzimir:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dziewa:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dziewolski:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzieduszycki:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzki:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dziedzicki:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dziubi:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dziewo:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzybrodzki:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzikowski:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dziadur:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dziora:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dziadowiec:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dziuba:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzior:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzier:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzikiewicz:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dziobek:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dziela:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzicha:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzielski:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzieszi:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzik:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dziarmagowski:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dziedzi:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dziurzycka:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dziado:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzika:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzio:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzierska:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzka:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dziak:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dziekan:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzierski:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dziewicz:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzybrodzka:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dziura:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dziekanowic:{freq:1,list:[39784],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzwiniacz:{freq:1,list:[39970],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzjamba:{freq:1,list:[39970],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzialozyc:{freq:1,list:[40675],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzyubina:{freq:1,list:[40694],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dziennik:{freq:1,list:[44452],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzsinski:{freq:1,list:[46315],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzeti:{freq:1,list:[46315],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dziec:{freq:1,list:[46315],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzozophin:{freq:1,list:[46315],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dziumi:{freq:1,list:[46315],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzialoszuc:{freq:1,list:[47297],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzikov:{freq:1,list:[47850],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzoekanow:{freq:1,list:[47961],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dziunia:{freq:1,list:[48314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzerzhinsk:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzerzhinski:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzoba:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzungaria:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzho:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzvailbhx:{freq:1,list:[51134],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+dzikowa:{freq:1,list:[53046],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}

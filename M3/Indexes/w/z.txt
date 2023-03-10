@@ -1,0 +1,26 @@
+wz:{freq:5,list:[2086, 2314, 31500, 34149, 43121],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+wzd:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+wzi:{freq:2,list:[39453, 40524],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+wzkcii:{freq:1,list:[20554],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+wzyov:{freq:1,list:[22533],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+wzdow:{freq:1,list:[27156],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+wzbogacaj:{freq:1,list:[29927],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+wzcon:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+wzx:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+wzjtfz:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+wzo:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+wzz:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+wzw:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+wzkzuup:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+wzu:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+wzgfnae:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+wzzvcujmixwcewf:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+wzzj:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+wzfveoegwax:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+wzilmggc:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+wzgcjm:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+wzxaflflncgamhbicru:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+wzmvalm:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+wzhd:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+wzorek:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+wznmyyfaxuq:{freq:1,list:[51134],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}

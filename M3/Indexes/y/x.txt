@@ -1,0 +1,24 @@
+yx:{freq:7,list:[28937, 34149, 38226, 41216, 41429, 43685, 51134],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yxta:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yxiaugidtd:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yxp:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yxljwmohghqp:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yxi:{freq:2,list:[16529, 16555],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yxu:{freq:2,list:[34149, 49818],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yxzdgynzmtodvmni:{freq:1,list:[12501],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yxj:{freq:1,list:[12501],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yxzhdfdaxqqbckq:{freq:1,list:[22533],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yxz:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yxg:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yxw:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yxwn:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yxodpifgtvprrqwwn:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yxltldxptgwiywzi:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yxptjj:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yxuk:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yxaf:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yxzt:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yxim:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yxbz:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yxb:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yxvifhyh:{freq:1,list:[51134],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}

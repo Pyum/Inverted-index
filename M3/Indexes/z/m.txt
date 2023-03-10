@@ -1,0 +1,37 @@
+zmynd:{freq:41,list:[1352, 1551, 1567, 1664, 1758, 1842, 1914, 2032, 2113, 2171, 2234, 2239, 2267, 2296, 2318, 2386, 2523, 2532, 2611, 2678, 2738, 2790, 2840, 2937, 3129, 3170, 3202, 3215, 3316, 3384, 3571, 3601, 3660, 3671, 3673, 3729, 3744, 3771, 3823, 4203, 4262],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmym:{freq:29,list:[1352, 1664, 1758, 1914, 2171, 2234, 2267, 2296, 2318, 2386, 2523, 2678, 2738, 2790, 2840, 3170, 3202, 3215, 3316, 3384, 3601, 3660, 3671, 3744, 3771, 3823, 4203, 4262, 4329],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmigrod:{freq:28,list:[25098, 25457, 26947, 29505, 30951, 31327, 32370, 33833, 38003, 38037, 38614, 40026, 40173, 40675, 41382, 42105, 44661, 45250, 45322, 45699, 47565, 47850, 49915, 50099, 51466, 51563, 52545, 52949],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmat:{freq:26,list:[1352, 1397, 1399, 1758, 1842, 2113, 2171, 2234, 2318, 2523, 2532, 2611, 2678, 2738, 2790, 2800, 2937, 3113, 3215, 3316, 3384, 3601, 3671, 3771, 3823, 4262],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmiz:{freq:15,list:[1352, 2318, 2361, 2386, 2523, 2532, 2611, 2738, 2790, 3202, 3384, 3601, 3671, 3823, 4262],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmpste:{freq:12,list:[1352, 1397, 1399, 1551, 2318, 2523, 2790, 3215, 3571, 3771, 3823, 4262],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zm:{freq:11,list:[171, 2086, 2171, 2314, 3316, 12501, 22533, 28677, 34149, 40524, 53590],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmontaz:{freq:3,list:[27575, 37838, 41263],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmegvfcaqsytgqvq:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmzmpj:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmc:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmag:{freq:1,list:[648],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmutyza:{freq:1,list:[12501],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmi:{freq:1,list:[12501],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmmxlwezmwitm:{freq:1,list:[12501],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmndmtmza:{freq:1,list:[12501],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmq:{freq:1,list:[12501],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmatrix:{freq:1,list:[16936],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zml:{freq:1,list:[16946],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmura:{freq:1,list:[21904],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmzv:{freq:1,list:[22533],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmbhsuzl:{freq:1,list:[22533],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmhw:{freq:1,list:[22533],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmakepolygon:{freq:1,list:[22972],bold:[22972],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmb:{freq:1,list:[29050],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmxeag:{freq:1,list:[32097],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmaw:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmuvxad:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmxaxuyxmrkyuuu:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmtv:{freq:1,list:[34578],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmodem:{freq:1,list:[38157],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmarz:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmf:{freq:1,list:[40524],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmjx:{freq:1,list:[40524],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmaschel:{freq:1,list:[42069],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmksoxgjsdhg:{freq:1,list:[51134],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zmfczcmd:{freq:1,list:[51134],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}

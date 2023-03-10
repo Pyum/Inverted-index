@@ -1,0 +1,86 @@
+gwa:{freq:17,list:[1335, 1434, 1572, 1596, 1698, 1808, 1888, 2276, 2859, 3250, 3432, 3443, 3596, 3718, 4306, 25022, 28859],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwendolin:{freq:17,list:[22045, 24429, 24625, 26782, 31735, 33416, 36465, 37321, 37529, 38959, 43536, 44012, 46251, 47473, 48400, 49968, 50887],bold:[],title:[],header:{'h1': [], 'h2': [24429, 26782, 37321, 44012, 46251], 'h3': [44012]}}
+gw:{freq:16,list:[2086, 2314, 12501, 19244, 19625, 19662, 22533, 33139, 34149, 36507, 45425, 46061, 48987, 49856, 51260, 55315],bold:[51260],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwen:{freq:12,list:[5813, 6446, 7757, 23011, 23341, 31402, 32645, 40465, 42365, 47625, 48698, 49968],bold:[],title:[23011, 48698],header:{'h1': [], 'h2': [23011, 48698], 'h3': []}}
+gwt:{freq:8,list:[2318, 3771, 4843, 4899, 4922, 4926, 16946, 52885],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwendolyn:{freq:8,list:[5813, 6446, 7757, 23494, 32645, 36347, 36483, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwyn:{freq:7,list:[5813, 6446, 7757, 27043, 45425, 47625, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwyneth:{freq:5,list:[5813, 6446, 7757, 32136, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwenda:{freq:4,list:[5813, 6446, 7757, 36347],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwenn:{freq:4,list:[5813, 6446, 7757, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwta:{freq:3,list:[1614, 3220, 3256],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwenni:{freq:3,list:[6048, 7853, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwm:{freq:3,list:[21469, 21595, 21623],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwozdz:{freq:3,list:[24643, 29060, 41873],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwyniad:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwalior:{freq:2,list:[504, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwqfangdab:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwf:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwajbprzpft:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwvtcxv:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwitchyaa:{freq:2,list:[6048, 7853],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwec:{freq:2,list:[6048, 7853],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwin:{freq:2,list:[6048, 7853],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwynn:{freq:2,list:[24219, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwendolc:{freq:2,list:[24625, 33416],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwar:{freq:2,list:[25276, 42196],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwarchiv:{freq:2,list:[25276, 42196],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwena:{freq:2,list:[32899, 47029],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwaii:{freq:2,list:[39419, 48330],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwai:{freq:2,list:[39690, 53445],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwine:{freq:2,list:[46639, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwn:{freq:1,list:[615],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwtapp:{freq:1,list:[16946],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwtservic:{freq:1,list:[16946],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwtexport:{freq:1,list:[16946],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwtopenmap:{freq:1,list:[16946],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwtmultipag:{freq:1,list:[16946],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwtmpv:{freq:1,list:[16946],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwtincub:{freq:1,list:[16946],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwtplatform:{freq:1,list:[16946],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwtp:{freq:1,list:[16946],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwtsecur:{freq:1,list:[16946],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwtupload:{freq:1,list:[16946],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwtphonegap:{freq:1,list:[16946],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwtqueri:{freq:1,list:[16946],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwtutil:{freq:1,list:[16946],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwteventservic:{freq:1,list:[16946],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwordzca:{freq:1,list:[28175],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwuvm:{freq:1,list:[28835],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwu:{freq:1,list:[28835],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwhi:{freq:1,list:[29742],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwstat:{freq:1,list:[29742],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwiarda:{freq:1,list:[32651],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwbn:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwtqph:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwedtefjpa:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwlwvvrisw:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwoo:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gward:{freq:1,list:[35652],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwardzi:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwo:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwizda:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwoddziec:{freq:1,list:[41873],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwozdziec:{freq:1,list:[41873],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwc:{freq:1,list:[45425],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwydir:{freq:1,list:[45425],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwoldig:{freq:1,list:[46315],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwi:{freq:1,list:[47007],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwinwok:{freq:1,list:[47904],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwizdowka:{freq:1,list:[48314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwendolen:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gweneth:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwenett:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwenneth:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwenora:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwenor:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwent:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwinn:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwinner:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwynedd:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwynnevil:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gweduc:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gweduck:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwiniad:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwpmw:{freq:1,list:[51134],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gwiazdomorska:{freq:1,list:[52495],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}

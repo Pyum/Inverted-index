@@ -1,0 +1,140 @@
+Query 1
+Machine
+	Time:
+	99.664 milliseconds
+	
+	Comments:
+	Used to be worse, results are fine. We optimized the section when
+	it was comparing DocIDs and creating another layer in our index library
+	
+Query 2
+Learning
+	Time:
+	132.047 milliseconds
+	
+	Comments:
+	Used to be worse, results are fine. We optimized the section when
+	it was comparing DocIDs and creating another layer in our index library
+
+Query 3
+Computer
+	Time:
+	568.107 milliseconds
+	
+	Comments:
+	Has been difficult from the start, results are fine. We tried to optimized the section when
+	it was comparing DocIDs, but it wasn't as helpful as we wished
+
+Query 4
+Masters
+	Time:
+	18.936 milliseconds
+
+Query 5
+Science
+	Time:
+	299.995 milliseconds
+	
+	Comments:
+	Used to be worse, results are fine. We tried to optimized the section when
+	it was comparing DocIDs, but it wasn't as helpful as we wish
+
+Query 6
+Software
+	Time:
+	140.531 milliseconds
+	
+	Comments:
+	Used to be worse, results are fine. We optimized the section when
+	it was comparing DocIDs and creating another layer in our index library
+
+Query 7
+Index
+	Time:
+	497.345 milliseconds
+	
+	Comments:
+	Has been difficult from the start, results are fine. We tried to optimized the section when
+	it was comparing DocIDs, but it wasn't as helpful as we wished
+
+Query 8
+Collection
+	Time:
+	25.912 milliseconds
+
+Query 9
+Database
+	Time:
+	50.335 milliseconds
+
+Query 10
+Information
+	Time:
+	621.271 milliseconds
+	
+	Comments:
+	Has been difficult from the start, results are fine. We tried to optimized the section when
+	it was comparing DocIDs, but it wasn't as helpful as we wished
+
+Query 11
+Machine Learning
+	Time:
+	104.158 milliseconds
+	
+	Comments:
+	Used to be a lot worse, results are fine. We optimized the section when
+	it was comparing DocIDs and creating another layer in our index library
+
+Query 12
+Rain Storm
+	Time:
+	22.922 milliseconds
+
+Query 13
+Software Engineering
+	Time:
+	83.251 milliseconds
+	
+	Comments:
+	Used to be worse, results are fine. We optimized the section when
+	creating another layer in our index library
+
+Query 14
+Masters Program	
+	Time:
+	39.865 milliseconds
+
+Query 15
+Artificial Intelligence
+	Time:
+	22.921 milliseconds
+
+Query 16
+Computer Science
+	Time:
+	666.282 milliseconds
+	
+	Comments:
+	Has been difficult from the start, results are fine. We tried to optimized the section when
+	it was comparing DocIDs, but it wasn't as helpful as we wished
+
+Query 17
+Python Code
+	Time:
+	15.945 milliseconds
+
+Query 18
+Programing Robots
+	Returns:	
+	Time:
+	9.9654 milliseconds
+	
+Query 19
+Search Engine
+	Time:
+	82.722 milliseconds
+
+Query 20
+Job Internships
+	Time:
+	27.906 milliseconds

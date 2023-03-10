@@ -1,0 +1,21 @@
+vjgi:{freq:50,list:[8005, 8017, 8051, 8091, 8738, 8778, 8971, 9062, 9172, 9389, 9593, 9959, 10052, 10065, 10073, 10212, 10340, 10412, 10515, 10663, 10673, 10748, 10955, 11325, 11428, 11452, 12075, 12109, 12309, 12328, 12699, 12880, 12979, 13023, 13051, 13141, 13633, 13741, 13767, 13784, 14136, 14536, 14787, 15173, 15177, 15491, 15496, 15628, 15654, 15803],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+vjpqnxtaauaixnktrwlj:{freq:42,list:[8077, 8182, 8413, 8620, 9186, 9303, 9386, 9401, 9412, 9612, 9740, 9786, 10173, 10360, 10609, 10641, 10968, 11347, 11668, 11678, 11824, 11870, 12066, 12355, 12423, 12435, 12654, 12995, 13121, 13491, 13594, 14024, 14037, 14362, 14410, 14493, 14651, 15216, 15361, 15510, 15528, 15845],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+vj:{freq:8,list:[2086, 2314, 6048, 7853, 18396, 25276, 34149, 42196],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+vjwzqlq:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+vjbv:{freq:2,list:[54057, 54584],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+vjmpwup:{freq:1,list:[12501],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+vjlwe:{freq:1,list:[12501],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+vjp:{freq:1,list:[22533],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+vjzjlik:{freq:1,list:[22533],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+vjxd:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+vjyodzen:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+vjr:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+vjq:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+vjsj:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+vjcqqvlbji:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+vjfbw:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+vjfp:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+vjphuouwm:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+vjpkiz:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+vjimenez:{freq:1,list:[43545],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+vjthomp:{freq:1,list:[43749],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}

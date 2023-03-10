@@ -1,0 +1,19 @@
+hq:{freq:65,list:[1614, 3220, 3256, 3479, 8483, 8740, 8913, 9049, 9123, 9315, 9349, 9538, 9733, 9961, 10071, 10106, 10299, 10329, 10429, 10512, 10530, 10662, 10733, 11254, 11288, 11463, 11571, 11711, 11788, 11813, 11818, 11822, 11930, 11959, 11974, 12273, 12353, 12356, 12436, 12675, 12836, 13130, 13424, 13743, 13864, 13904, 13955, 14342, 14369, 14543, 14612, 14620, 14723, 14743, 14930, 15013, 15481, 15580, 20546, 20749, 21178, 26984, 31839, 34149, 34321],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+hqx:{freq:4,list:[19633, 29742, 39802, 48474],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+hqr:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+hql:{freq:1,list:[16946],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+hqpqu:{freq:1,list:[22533],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+hqjtdqjck:{freq:1,list:[31313],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+hqfrgh:{freq:1,list:[31765],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+hqybbjj:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+hqogknv:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+hqdhq:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+hqtdjx:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+hqeprr:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+hqdinh:{freq:1,list:[40344],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+hqf:{freq:1,list:[40524],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+hqsort:{freq:1,list:[43546],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+hquick:{freq:1,list:[43546],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+hqgexaakj:{freq:1,list:[51134],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+hqj:{freq:1,list:[51134],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+hqkmpqa:{freq:1,list:[51134],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}

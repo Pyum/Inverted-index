@@ -1,0 +1,89 @@
+zweck:{freq:47,list:[41, 56, 78, 88, 99, 104, 109, 117, 144, 227, 247, 293, 318, 325, 368, 471, 479, 550, 552, 559, 563, 594, 640, 680, 687, 701, 707, 735, 743, 770, 776, 811, 823, 912, 930, 933, 1032, 1033, 1053, 1081, 1091, 1111, 1113, 1144, 1198, 1273, 1279],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zw:{freq:43,list:[2234, 2318, 2523, 2800, 3113, 3215, 3771, 3823, 8289, 8313, 9349, 9413, 9849, 10106, 10733, 11160, 11254, 11288, 11613, 11711, 11788, 11818, 11959, 12273, 12426, 12501, 12686, 12775, 12836, 12902, 13130, 13955, 13999, 14202, 14483, 14620, 14723, 15580, 22533, 34149, 34651, 51134, 51149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zweig:{freq:36,list:[22274, 23827, 24219, 24588, 24808, 27450, 27791, 27796, 28803, 28836, 28894, 29489, 29899, 30163, 30858, 30877, 32136, 32336, 32894, 33114, 36693, 38054, 38177, 38764, 43714, 44165, 45642, 47085, 47238, 48148, 48657, 48939, 49225, 49968, 51831, 53292],bold:[],title:[28803],header:{'h1': [], 'h2': [28803], 'h3': []}}
+zwint:{freq:20,list:[1352, 2318, 2386, 2435, 2523, 2738, 2790, 2800, 3113, 3170, 3202, 3215, 3384, 3601, 3637, 3671, 3673, 3771, 4262, 4329],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwierzyniec:{freq:13,list:[23065, 28386, 30940, 32370, 33954, 36000, 38037, 38233, 40738, 41218, 44308, 45742, 52378],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwettel:{freq:10,list:[22536, 23925, 26835, 30211, 30877, 36000, 40420, 40675, 42069, 45614],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwick:{freq:9,list:[11724, 12501, 22539, 28895, 41418, 44640, 49338, 49708, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwitter:{freq:8,list:[88, 318, 770, 787, 823, 1060, 1081, 1113],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwi:{freq:8,list:[12501, 26509, 29927, 38128, 46315, 49537, 52949, 53412],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwierzyniecki:{freq:7,list:[31598, 39889, 41218, 47225, 47566, 50099, 52027],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwilch:{freq:5,list:[1352, 2800, 3215, 3771, 4262],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwill:{freq:5,list:[25732, 33968, 42069, 44642, 44735],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwirn:{freq:4,list:[26223, 26621, 37806, 38258],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwitterion:{freq:3,list:[2800, 3113, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwetschkenbaum:{freq:3,list:[21782, 23519, 43559],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwolen:{freq:3,list:[24749, 31067, 38003],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwetel:{freq:3,list:[30461, 33062, 50057],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwev:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwxajcprdlifnlokawgfarkkwupucpookdqsseq:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwtsmf:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zworld:{freq:2,list:[7169, 7867],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwigoff:{freq:2,list:[11724, 12501],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwiookct:{freq:2,list:[11724, 12501],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwierzynic:{freq:2,list:[25941, 30461],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zweibrucken:{freq:2,list:[30858, 51268],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwetschkenstiel:{freq:2,list:[31440, 36412],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwetli:{freq:2,list:[37145, 38764],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwickau:{freq:2,list:[39625, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwikler:{freq:2,list:[44661, 52985],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwart:{freq:2,list:[46440, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwischenzug:{freq:2,list:[49968, 51667],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwq:{freq:1,list:[12501],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zweyyz:{freq:1,list:[12501],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwyylthmyjatmjkwztu:{freq:1,list:[12501],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwexltljztmtntaxyw:{freq:1,list:[12501],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwqtmwiyztdkyza:{freq:1,list:[12501],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwetzwm:{freq:1,list:[12501],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwmzngfjntvkxkeyxkfqcgdeqxvymtqxnzmzndi:{freq:1,list:[12501],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwmxlthli:{freq:1,list:[12501],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zweb:{freq:1,list:[16946],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwxzhi:{freq:1,list:[22533],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwljln:{freq:1,list:[22533],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwgwaihsug:{freq:1,list:[22533],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwxzl:{freq:1,list:[22533],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwkwjdcbh:{freq:1,list:[22533],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwierzen:{freq:1,list:[22703],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zweik:{freq:1,list:[23119],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwinger:{freq:1,list:[23325],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwetchkenbaum:{freq:1,list:[23519],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwardon:{freq:1,list:[28395],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zweighalt:{freq:1,list:[28803],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwiesiem:{freq:1,list:[31759],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwiesicmo:{freq:1,list:[31759],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwierzynichi:{freq:1,list:[32334],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwia:{freq:1,list:[33062],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwiet:{freq:1,list:[33954],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwyknsyi:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwekr:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwm:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwdhsh:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwiswsh:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwbv:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwije:{freq:1,list:[36449],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwierzyniechi:{freq:1,list:[38233],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwaenepoel:{freq:1,list:[38432],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwierzynca:{freq:1,list:[39558],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwierz:{freq:1,list:[39889],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwang:{freq:1,list:[41263],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwiettel:{freq:1,list:[42069],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwanzieg:{freq:1,list:[45363],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwulun:{freq:1,list:[46315],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zweighaft:{freq:1,list:[46315],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwini:{freq:1,list:[46315],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwolinska:{freq:1,list:[47566],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwydt:{freq:1,list:[47698],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zweigbaum:{freq:1,list:[47805],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwern:{freq:1,list:[48314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwierzyn:{freq:1,list:[49716],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwpyuopdqgf:{freq:1,list:[49818],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwanzig:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwieback:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwiebel:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwingl:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwingli:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwinglian:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwinglianist:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwoll:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zworykin:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+zwqfnagoplrgrzqiv:{freq:1,list:[51134],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}

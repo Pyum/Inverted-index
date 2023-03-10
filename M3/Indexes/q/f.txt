@@ -1,0 +1,20 @@
+qfpb:{freq:53,list:[8006, 8103, 8115, 8125, 8246, 8270, 8728, 8815, 8915, 8943, 9134, 9154, 9190, 9426, 9870, 9879, 9917, 10193, 10253, 10574, 11269, 11283, 11525, 11581, 11659, 11926, 12754, 12829, 13024, 13128, 13317, 13351, 13768, 13949, 14104, 14229, 14335, 14379, 14434, 14488, 14552, 14797, 15226, 15234, 15309, 15329, 15375, 15450, 15473, 15504, 15562, 15635, 15817],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qf:{freq:7,list:[2086, 2314, 32097, 32816, 34149, 43078, 52328],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qfl:{freq:3,list:[34149, 54057, 54584],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qfhhgr:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qft:{freq:1,list:[24539],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qfvnsocixzqx:{freq:1,list:[32097],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qfc:{freq:1,list:[32097],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qfe:{freq:1,list:[32752],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qfqq:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qfkiss:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qfewmn:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qfncmber:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qfvw:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qfkevj:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qfmdmbgqevkgcmq:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qfahevtvuszihq:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qfuwoxqwynnh:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qfkvqmxzq:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qfk:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qfxr:{freq:1,list:[51134],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}

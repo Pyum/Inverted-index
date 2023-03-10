@@ -1,0 +1,98 @@
+kw:{freq:111,list:[319, 396, 624, 1337, 1341, 1434, 1441, 1555, 1572, 1596, 1603, 1614, 1618, 1643, 1698, 1808, 1882, 1888, 2086, 2176, 2248, 2276, 2314, 2455, 2867, 2994, 3082, 3150, 3156, 3220, 3245, 3250, 3256, 3432, 3443, 3560, 3596, 3697, 3718, 3773, 3845, 3960, 4041, 4171, 4246, 4306, 8006, 8103, 8115, 8125, 8246, 8270, 8728, 8815, 8915, 8943, 9134, 9154, 9190, 9426, 9870, 9879, 9917, 10193, 10253, 10574, 11269, 11283, 11525, 11581, 11659, 11724, 11926, 12754, 12829, 13024, 13128, 13317, 13351, 13768, 13949, 14104, 14229, 14335, 14379, 14434, 14488, 14552, 14797, 15226, 15234, 15309, 15329, 15375, 15450, 15473, 15504, 15562, 15635, 15817, 23816, 24909, 26575, 33184, 34149, 37324, 41009, 41238, 45852, 46688, 51149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwok:{freq:22,list:[58, 122, 171, 227, 391, 552, 687, 738, 776, 788, 857, 1058, 1077, 1111, 1144, 1235, 1280, 24751, 36510, 49852, 49968, 51703],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwon:{freq:15,list:[6048, 7853, 21394, 21622, 22429, 23750, 33111, 34684, 34942, 39930, 40306, 43918, 49968, 52028, 55318],bold:[33111, 52028],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwdsstorag:{freq:12,list:[5737, 5747, 5930, 5934, 6143, 6340, 6678, 6869, 7170, 7266, 7411, 7763],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwak:{freq:11,list:[19260, 19288, 19297, 19345, 19363, 19419, 19434, 19442, 19458, 19463, 44180],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwd:{freq:10,list:[5550, 5769, 5984, 6216, 6395, 6470, 6867, 7597, 7721, 7733],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwan:{freq:10,list:[20749, 20783, 20813, 20824, 21136, 21156, 21178, 36779, 43918, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwadrat:{freq:7,list:[25609, 25838, 35007, 38128, 40026, 41323, 52613],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwasniewski:{freq:6,list:[22477, 25827, 36266, 41707, 46315, 49319],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwang:{freq:5,list:[11724, 12501, 42372, 43765, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwong:{freq:5,list:[27595, 29273, 37655, 43545, 51703],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwedlo:{freq:4,list:[471, 687, 707, 1111],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwai:{freq:4,list:[22248, 25276, 25771, 42196],bold:[],title:[22248],header:{'h1': [], 'h2': [], 'h3': []}}
+kwm:{freq:4,list:[25229, 42670, 43993, 52277],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwei:{freq:4,list:[42372, 43545, 49968, 52864],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwdtokwdinfo:{freq:3,list:[5769, 5984, 6867],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwdinfo:{freq:3,list:[5769, 5984, 6867],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwame:{freq:3,list:[21494, 21745, 46064],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwiatkowski:{freq:3,list:[33269, 39453, 46315],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwelwass:{freq:3,list:[34155, 42069, 44600],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwalwass:{freq:3,list:[41627, 44600, 50981],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwartowitz:{freq:2,list:[1081, 1113],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwhite:{freq:2,list:[11724, 12501],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwestel:{freq:2,list:[21962, 44752],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwaidan:{freq:2,list:[25276, 42196],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwadratstein:{freq:2,list:[27898, 40653],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwic:{freq:2,list:[35701, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwastel:{freq:2,list:[37145, 42069],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwa:{freq:2,list:[39453, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwortman:{freq:2,list:[44603, 51200],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwg:{freq:1,list:[562],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwi:{freq:1,list:[562],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwh:{freq:1,list:[624],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwk:{freq:1,list:[12501],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwartner:{freq:1,list:[21949],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwneeqwlkxtihko:{freq:1,list:[22533],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwarg:{freq:1,list:[25932],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kweiser:{freq:1,list:[27046],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwadenstein:{freq:1,list:[28704],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwalker:{freq:1,list:[33608],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwixnj:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwlk:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwkymaauoik:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwjixebjadfp:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwkpjciauvejhxhn:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwf:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwote:{freq:1,list:[35231],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwkwk:{freq:1,list:[37897],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwidzyn:{freq:1,list:[38003],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwieciszewo:{freq:1,list:[38003],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwo:{freq:1,list:[38058],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwasniewska:{freq:1,list:[39373],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwieci:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwapniewski:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwaner:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwasnycia:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwapi:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwiatek:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwolewska:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwiatkowska:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwarci:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwatro:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwater:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwarciak:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwinta:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwasnik:{freq:1,list:[41875],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwochah:{freq:1,list:[43545],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwoheman:{freq:1,list:[43545],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwasniawska:{freq:1,list:[46315],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwiatka:{freq:1,list:[46315],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwaczala:{freq:1,list:[48228],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwie:{freq:1,list:[49193],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwietnia:{freq:1,list:[49193],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwodaw:{freq:1,list:[49818],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwabena:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwajalein:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwakiutl:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwangchow:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwangchowan:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwangju:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwangtung:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwanzaa:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwapong:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwarteng:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwasi:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kweichow:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kweilin:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kweisui:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kweiyang:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwethluk:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwigillingok:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwacha:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwanza:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwashiorkor:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwela:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwetsbaard:{freq:1,list:[50408],bold:[50408],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwvlzkjsuxk:{freq:1,list:[51134],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kwasnicki:{freq:1,list:[52776],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}

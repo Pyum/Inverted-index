@@ -1,0 +1,41 @@
+uotgcotnioofgqlzukaln:{freq:60,list:[7969, 8483, 8740, 8913, 9123, 9315, 9344, 9349, 9538, 9733, 9892, 9961, 9981, 10071, 10072, 10106, 10299, 10329, 10384, 10429, 10530, 10733, 10840, 11254, 11288, 11453, 11463, 11620, 11711, 11788, 11818, 11930, 11959, 11974, 12273, 12353, 12356, 12406, 12436, 12675, 12836, 13047, 13424, 13469, 13743, 13904, 13955, 14342, 14369, 14543, 14612, 14620, 14723, 14743, 14930, 15004, 15013, 15347, 15580, 15673],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uottawa:{freq:15,list:[1017, 1089, 16507, 24918, 26922, 27794, 30387, 32300, 32441, 34921, 38906, 39525, 46169, 49350, 51140],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uobprm:{freq:10,list:[24718, 25222, 25898, 32899, 37949, 42087, 42354, 49280, 49871, 52490],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uoregon:{freq:8,list:[16152, 16166, 19222, 19231, 42814, 45425, 45928, 53646],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uo:{freq:7,list:[16152, 16166, 22533, 34149, 38003, 40524, 49818],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uou:{freq:6,list:[9407, 10475, 11794, 12483, 14366, 15124],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uofi:{freq:6,list:[33745, 37579, 42056, 45680, 52350, 52658],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uoctti:{freq:3,list:[22165, 51642, 52964],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uopn:{freq:2,list:[2800, 3113],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uomini:{freq:2,list:[25276, 42196],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uoodo:{freq:2,list:[25276, 42196],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uom:{freq:1,list:[280],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uoit:{freq:1,list:[790],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uotcsi:{freq:1,list:[1091],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uoc:{freq:1,list:[1138],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uowfil:{freq:1,list:[16946],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uong:{freq:1,list:[17083],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uoccti:{freq:1,list:[22165],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uossjbvphlx:{freq:1,list:[22533],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uof:{freq:1,list:[33310],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uoo:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uook:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uoorsxdrydhvmoomuhaq:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uowu:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uoroxiuowhu:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uohf:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uojpboi:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uorouqgqlt:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uoxbuxwceek:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uosap:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uodomgsvdjv:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uorli:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uojrjuvd:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uovi:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uortit:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uoxkwymcx:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uoa:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uottowa:{freq:1,list:[39900],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uotap:{freq:1,list:[40524],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uojak:{freq:1,list:[45363],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+uol:{freq:1,list:[49818],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}

@@ -1,8 +1,8 @@
-https://www.ics.uci.edu/~ejw/authoring/orem/namespace/tsld013.htm
-https://www.ics.uci.edu/~ejw/authoring/orem/namespace/tsld011.htm
-https://www.ics.uci.edu/~ejw/authoring/munich/overview/tsld014.htm
-https://www.ics.uci.edu/~ejw/authoring/orem/namespace/tsld015.htm
-https://www.ics.uci.edu/~ejw/authoring/orem/namespace/tsld012.htm
+https://mswe.ics.uci.edu/
+https://mcs.ics.uci.edu/
+https://mhcid.ics.uci.edu/#content
+https://mhcid.ics.uci.edu/
+http://sli.ics.uci.edu/PmWiki/MarkupMasterIndex
 
-Query was:index
-The search took 495.17130851745605 milliseconds
+Query was:masters
+The search took 14.958620071411133 milliseconds

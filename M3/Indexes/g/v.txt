@@ -1,0 +1,32 @@
+gv:{freq:117,list:[2086, 2314, 4770, 4781, 4796, 4798, 4801, 4812, 4822, 5180, 5216, 8093, 8195, 8430, 8636, 8649, 8671, 8729, 8819, 8944, 8946, 9197, 9262, 9313, 9323, 9327, 9329, 9475, 9536, 9571, 9596, 9604, 9626, 9639, 9885, 9891, 10276, 10282, 10335, 10446, 10466, 10526, 10556, 10562, 10712, 10752, 11000, 11066, 11079, 11134, 11143, 11178, 11183, 11218, 11400, 11436, 11601, 11662, 12086, 12304, 12342, 12448, 12480, 12524, 12550, 12734, 12786, 12818, 12941, 12987, 13000, 13006, 13045, 13113, 13173, 13180, 13190, 13282, 13343, 13360, 13392, 13467, 13556, 13649, 13658, 13672, 13676, 13710, 13731, 13760, 13810, 13935, 14059, 14316, 14358, 14503, 14523, 14594, 14757, 14784, 14820, 15028, 15050, 15129, 15138, 15171, 15338, 15417, 15784, 22533, 25591, 30045, 31019, 32144, 34149, 40524, 49422],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gvu:{freq:4,list:[834, 31820, 32344, 46324],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gvf:{freq:3,list:[2086, 2314, 29724],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gvh:{freq:2,list:[755, 1199],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gvaetaaaacxbiwxmaaastaaaleweampwyaaaab:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gvaetaaaacxbiwxmaaasraaaleqf:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gvpm:{freq:1,list:[746],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gvin:{freq:1,list:[2532],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gvt:{freq:1,list:[16946],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gvsig:{freq:1,list:[16946],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gvdd:{freq:1,list:[32097],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gvbx:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gvymylcnnu:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gvyxetpl:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gvmw:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gvm:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gvwvfn:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gvvbr:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gvwwlhx:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gvypj:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gvebaycnwk:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gvaw:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gvxxfsormtltvyr:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gvlaqoa:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gvvxxnylyfulnl:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gvr:{freq:1,list:[37733],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gvuzpm:{freq:1,list:[43545],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gvault:{freq:1,list:[45111],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gvw:{freq:1,list:[45425],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gvg:{freq:1,list:[51134],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gvtel:{freq:1,list:[51134],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gveeupxvayovkbfallanep:{freq:1,list:[51134],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}

@@ -1,0 +1,41 @@
+ys:{freq:46,list:[1337, 1341, 1441, 1555, 1596, 1603, 1614, 1618, 1643, 1808, 1882, 2176, 2248, 2276, 2455, 2867, 2994, 3082, 3150, 3156, 3220, 3250, 3256, 3432, 3443, 3560, 3596, 3773, 3845, 3960, 4041, 4171, 4246, 4306, 12501, 19597, 19614, 19822, 22533, 24604, 33139, 34149, 39466, 45852, 49856, 52529],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ysangkok:{freq:21,list:[8168, 8319, 9139, 9241, 9685, 9771, 10653, 11625, 11650, 11665, 12635, 12878, 13057, 13646, 13792, 14490, 14640, 14834, 15022, 15697, 15713],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yscr:{freq:4,list:[23124, 35850, 45699, 47007],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ysfbqaaaan:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ysdyp:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yszbg:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ysrtiox:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ysv:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ysc:{freq:2,list:[2318, 3771],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ysoft:{freq:2,list:[19577, 19843],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ysz:{freq:2,list:[39453, 43762],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yspeed:{freq:1,list:[7908],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ysybnfpxpi:{freq:1,list:[22533],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ysecond:{freq:1,list:[23185],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ysdow:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yssr:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ysw:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ysaeee:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ystt:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ystb:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ysgjpijsk:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ysgjpijsm:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ysgjpi:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ysuci:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yswcpou:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ysgtoosckuuxr:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ysoz:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yset:{freq:1,list:[35231],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yszewski:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ysik:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ysi:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ysezprc:{freq:1,list:[40524],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ysl:{freq:1,list:[40524],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yssp:{freq:1,list:[43472],bold:[43472],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ysachar:{freq:1,list:[44026],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yster:{freq:1,list:[45425],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yssochur:{freq:1,list:[45699],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ysabel:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yser:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yseult:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yseulta:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
