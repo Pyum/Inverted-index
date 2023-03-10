@@ -1,0 +1,84 @@
+oit:{freq:98,list:[737, 6048, 7853, 16804, 16810, 17026, 20017, 20019, 21795, 21978, 22379, 22640, 23342, 23901, 24165, 24427, 25745, 25803, 25857, 25900, 26059, 26739, 26825, 27057, 27299, 27772, 27971, 29088, 29368, 30643, 31615, 31866, 32408, 32701, 32800, 33123, 33437, 33533, 33611, 34176, 35306, 35633, 36346, 36356, 36402, 36418, 36869, 37413, 37464, 37502, 38434, 39303, 39503, 39844, 39971, 40310, 40800, 41077, 41100, 41403, 41446, 41593, 41681, 42785, 43021, 43593, 43679, 43805, 44460, 44568, 44579, 44813, 44962, 45206, 45688, 45886, 45910, 45966, 46784, 46830, 47230, 47430, 47553, 48376, 49125, 49478, 49590, 50198, 50897, 51008, 51262, 51440, 51611, 51708, 51742, 52686, 52695, 52944],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oil:{freq:64,list:[171, 396, 550, 552, 801, 1111, 4441, 4444, 4449, 4597, 4733, 5268, 5275, 6048, 7853, 17145, 17500, 17740, 18845, 19240, 19587, 19978, 20008, 20011, 20257, 21521, 21673, 23105, 25239, 25245, 25276, 25460, 25525, 26976, 27043, 27123, 28083, 28100, 30265, 31198, 32951, 33216, 34198, 34496, 35502, 39548, 42196, 42456, 43545, 44041, 44834, 45073, 45699, 46639, 47796, 49031, 49968, 50634, 51207, 52529, 53883, 54093, 54873, 55022],bold:[],title:[23105, 47796, 49031],header:{'h1': [], 'h2': [23105, 47796, 49031], 'h3': []}}
+oi:{freq:20,list:[231, 471, 495, 549, 687, 707, 1111, 2086, 2314, 22810, 25276, 25433, 30657, 34149, 40524, 42196, 44948, 46639, 53011, 53388],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oip:{freq:14,list:[1352, 1664, 1758, 1914, 2234, 2267, 2296, 2840, 3660, 3744, 4203, 4262, 4329, 33171],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oie:{freq:13,list:[21324, 21362, 21521, 22810, 45351, 53832, 54358, 54477, 54926, 55162, 55283, 55322, 55366],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oid:{freq:10,list:[6920, 7809, 10390, 11439, 14747, 15763, 27220, 32780, 38250, 44081],bold:[],title:[],header:{'h1': [], 'h2': [32780], 'h3': [32780, 44081]}}
+oili:{freq:7,list:[17083, 41149, 46639, 47625, 49776, 49968, 50334],bold:[],title:[50334],header:{'h1': [], 'h2': [50334], 'h3': []}}
+oireachta:{freq:4,list:[25625, 39087, 41494, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oilwel:{freq:3,list:[6048, 7853, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oin:{freq:3,list:[6048, 7853, 34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oilfield:{freq:3,list:[6048, 7853, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oisin:{freq:3,list:[26225, 37458, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oimv:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oiwldw:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oikaihon:{freq:2,list:[11724, 12501],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oisson:{freq:2,list:[19616, 44810],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oiler:{freq:2,list:[22279, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oingo:{freq:2,list:[25276, 42196],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oindex:{freq:2,list:[29701, 41247],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oint:{freq:2,list:[47625, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oiozvejd:{freq:1,list:[22533],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oia:{freq:1,list:[22810],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oiid:{freq:1,list:[23589],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oijwtmexnlr:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oixkndvx:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oiqcjotusuhl:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oijcaqismmpckjktapni:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oime:{freq:1,list:[39083],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oizek:{freq:1,list:[42069],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oikawa:{freq:1,list:[43545],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oisenberg:{freq:1,list:[45363],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oikarinen:{freq:1,list:[45425],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oinuma:{freq:1,list:[46252],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oisfenk:{freq:1,list:[46315],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oillataguerr:{freq:1,list:[46570],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oii:{freq:1,list:[46588],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oilga:{freq:1,list:[48798],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oim:{freq:1,list:[49338],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oiser:{freq:1,list:[49537],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oither:{freq:1,list:[49941],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oilla:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oilmont:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oilton:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oiltrough:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oilvil:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oina:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oira:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ois:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oistrakh:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oidia:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oidioid:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oidium:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oik:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oikist:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oilbird:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oilcak:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oilcamp:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oilcan:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oilcloth:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oilcup:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oileri:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oilfir:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oilhol:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oilier:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oiliest:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oilili:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oillet:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oilman:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oilmen:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oilnut:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oilpap:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oilproof:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oilrig:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oilse:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oilskin:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oilston:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oiltight:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oilway:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oink:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oinolog:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oinomel:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ointment:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oiticica:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+oir:{freq:1,list:[53488],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}

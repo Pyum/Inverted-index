@@ -1,0 +1,27 @@
+xg:{freq:3,list:[2086, 2314, 22533],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+xgu:{freq:3,list:[2086, 2314, 34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+xgo:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+xghire:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+xguard:{freq:2,list:[4372, 46540],bold:[4372, 46540],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+xgr:{freq:2,list:[34149, 36867],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+xgyro:{freq:1,list:[648],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+xgvo:{freq:1,list:[12501],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+xgk:{freq:1,list:[19587],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+xgyybsn:{freq:1,list:[22533],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+xgj:{freq:1,list:[22533],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+xgrid:{freq:1,list:[23159],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+xgmml:{freq:1,list:[29724],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+xgjjhx:{freq:1,list:[32097],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+xgroduz:{freq:1,list:[32097],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+xgv:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+xgq:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+xgx:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+xgbdzlm:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+xgncbkhevft:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+xgur:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+xgowo:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+xgidetcjjftxi:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+xgradient:{freq:1,list:[40776],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+xgaussian:{freq:1,list:[41147],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+xgrsdb:{freq:1,list:[49818],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+xgl:{freq:1,list:[51134],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}

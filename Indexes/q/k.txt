@@ -1,0 +1,18 @@
+qk:{freq:68,list:[1352, 2086, 2314, 2386, 2738, 3384, 3601, 3671, 4262, 7988, 8047, 8053, 8177, 8379, 8606, 8632, 9070, 9185, 9218, 9678, 9734, 9769, 9794, 9872, 9977, 10206, 10259, 10496, 10604, 10614, 10792, 10811, 10826, 10843, 10888, 11042, 11415, 11706, 11772, 11776, 11784, 12092, 12230, 12377, 12557, 13061, 13219, 13953, 14090, 14187, 14208, 14243, 14406, 14449, 14462, 14519, 14569, 14739, 14918, 15053, 15145, 15714, 15774, 15814, 21915, 34149, 40524, 51134],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qki:{freq:6,list:[1858, 2118, 2435, 2678, 3202, 3823],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qkkhoajeqahssln:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qkwqmub:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qkhkjbq:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qkrjdaxxib:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qkqfmz:{freq:1,list:[22533],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qkuaf:{freq:1,list:[32097],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qkf:{freq:1,list:[32097],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qktvntfqlclxegzmjzp:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qkjz:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qkohrizt:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qkdo:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qkt:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qkoftwesngzxzbd:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qkfi:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qktp:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qkftppq:{freq:1,list:[51134],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}

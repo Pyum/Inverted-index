@@ -1,0 +1,91 @@
+tze:{freq:241,list:[396, 839, 7991, 8015, 8028, 8037, 8071, 8126, 8198, 8219, 8253, 8265, 8297, 8393, 8473, 8483, 8494, 8557, 8564, 8594, 8707, 8740, 8770, 8887, 8913, 8930, 8948, 8970, 8990, 9017, 9085, 9123, 9243, 9245, 9288, 9315, 9316, 9320, 9332, 9344, 9349, 9354, 9434, 9478, 9515, 9532, 9538, 9725, 9733, 9830, 9845, 9892, 9935, 9939, 9961, 9963, 10003, 10006, 10031, 10071, 10072, 10106, 10125, 10139, 10148, 10272, 10299, 10329, 10396, 10429, 10445, 10503, 10530, 10542, 10610, 10612, 10615, 10622, 10672, 10733, 10776, 10833, 10898, 10925, 10963, 10970, 11003, 11021, 11036, 11074, 11077, 11088, 11166, 11190, 11234, 11254, 11266, 11288, 11354, 11407, 11420, 11453, 11463, 11605, 11613, 11620, 11711, 11749, 11759, 11763, 11788, 11818, 11845, 11847, 11851, 11877, 11917, 11930, 11951, 11959, 11974, 12017, 12042, 12059, 12081, 12137, 12163, 12166, 12185, 12190, 12273, 12286, 12339, 12353, 12356, 12436, 12471, 12516, 12584, 12602, 12637, 12675, 12691, 12722, 12822, 12836, 12837, 12849, 12945, 12965, 13090, 13151, 13165, 13192, 13231, 13267, 13272, 13307, 13417, 13424, 13445, 13469, 13515, 13543, 13579, 13598, 13607, 13608, 13626, 13647, 13685, 13705, 13708, 13743, 13746, 13878, 13892, 13900, 13904, 13955, 13972, 14021, 14055, 14076, 14207, 14224, 14250, 14273, 14314, 14338, 14342, 14353, 14369, 14396, 14401, 14417, 14429, 14478, 14527, 14543, 14586, 14612, 14620, 14648, 14664, 14666, 14681, 14723, 14728, 14734, 14743, 14781, 14788, 14790, 14890, 14930, 14953, 14957, 14974, 14989, 15004, 15013, 15019, 15027, 15092, 15125, 15275, 15302, 15347, 15376, 15394, 15410, 15452, 15507, 15539, 15580, 15661, 15683, 15805, 15842, 52864],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzvi:{freq:57,list:[22844, 23124, 23605, 23870, 24113, 24588, 25413, 25794, 26378, 27173, 27918, 28066, 28965, 28977, 29176, 29294, 31103, 31243, 31315, 32119, 32854, 33297, 33438, 33470, 34539, 35433, 35460, 35826, 36401, 36746, 38012, 39072, 42105, 42190, 42294, 43101, 44026, 44667, 44967, 45699, 46034, 47007, 47297, 47468, 47568, 47850, 47911, 48226, 48314, 48369, 49602, 50099, 50397, 51268, 52613, 52615, 53412],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tz:{freq:33,list:[463, 827, 2086, 2314, 4760, 4799, 5399, 5482, 6216, 6258, 6395, 6627, 7042, 7220, 7242, 7340, 7355, 7428, 7597, 7600, 7698, 7733, 16946, 17136, 17871, 19800, 34149, 37276, 39453, 40524, 41875, 49818, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzid:{freq:24,list:[16455, 16465, 16496, 16501, 16511, 16518, 16524, 16534, 16555, 16556, 21283, 21369, 21436, 21438, 21469, 21483, 21496, 21603, 21624, 21647, 21658, 21696, 21715, 21718],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzu:{freq:12,list:[4980, 4982, 4983, 4986, 25276, 29867, 33216, 34149, 34942, 41842, 42196, 45727],bold:[45727],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzirel:{freq:10,list:[24113, 27173, 28977, 31372, 32854, 35826, 36516, 42190, 44026, 51268],bold:[35826],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzivya:{freq:9,list:[24113, 27173, 28965, 28977, 31372, 32854, 35551, 35826, 53412],bold:[35826],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzipora:{freq:7,list:[25794, 33062, 44026, 47850, 48226, 49602, 53412],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tziporah:{freq:7,list:[27173, 28977, 32854, 47303, 47911, 48226, 53412],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzila:{freq:6,list:[24113, 28977, 35826, 42105, 42190, 52128],bold:[42190],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tziril:{freq:5,list:[27173, 28965, 28977, 47911, 49225],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzevetta:{freq:5,list:[27443, 28977, 35826, 48226, 51466],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzuyi:{freq:4,list:[4980, 4982, 4983, 4986],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzlava:{freq:4,list:[24113, 28977, 35826, 48226],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzippi:{freq:4,list:[25794, 39373, 42190, 44026],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzemach:{freq:3,list:[24014, 47549, 50216],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzina:{freq:3,list:[27173, 28977, 40173],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzvia:{freq:3,list:[28894, 36806, 52605],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzivia:{freq:3,list:[34539, 48226, 53255],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzion:{freq:3,list:[46348, 47850, 53412],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzgi:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzewa:{freq:2,list:[22529, 31020],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzfa:{freq:2,list:[23119, 26757],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzeng:{freq:2,list:[32489, 43918],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzilla:{freq:2,list:[44667, 46034],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzanetaki:{freq:1,list:[422],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzqbijjhfjj:{freq:1,list:[22533],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzedek:{freq:1,list:[23124],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzurti:{freq:1,list:[24113],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzrifin:{freq:1,list:[25827],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzuk:{freq:1,list:[26378],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzibbur:{freq:1,list:[26502],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzviki:{freq:1,list:[26734],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzwern:{freq:1,list:[28215],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzipporah:{freq:1,list:[28977],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzehlem:{freq:1,list:[30163],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzuriel:{freq:1,list:[31315],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzor:{freq:1,list:[32854],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tztbjppgtppbg:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzwinxx:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzmvvrbdxkdsssgosvhi:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzlm:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzocrpdnkemnu:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzpe:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzipe:{freq:1,list:[34539],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzippa:{freq:1,list:[35497],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzvetta:{freq:1,list:[36806],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzopf:{freq:1,list:[38614],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzippora:{freq:1,list:[39558],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzinger:{freq:1,list:[39874],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzebinia:{freq:1,list:[41510],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzacatl:{freq:1,list:[41767],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzadik:{freq:1,list:[44667],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzinka:{freq:1,list:[44667],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzavah:{freq:1,list:[45699],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzipra:{freq:1,list:[45699],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzel:{freq:1,list:[46348],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzanov:{freq:1,list:[46440],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzur:{freq:1,list:[47850],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzluv:{freq:1,list:[47911],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzcesov:{freq:1,list:[48314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzong:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzaddik:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzaddikim:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzaddiq:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzar:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzardom:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzarevitch:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzarevna:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzarina:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzarism:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzaritza:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzatziki:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzets:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzigan:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzigani:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzimm:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzimmes:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzitz:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzitzi:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzitzit:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzitzith:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzuri:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzesia:{freq:1,list:[50454],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzuiel:{freq:1,list:[50981],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzvika:{freq:1,list:[50981],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzzhspg:{freq:1,list:[51134],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzedaka:{freq:1,list:[51246],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzavtal:{freq:1,list:[51268],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzvatel:{freq:1,list:[51268],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+tzofia:{freq:1,list:[52605],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}

@@ -1,0 +1,61 @@
+ikmean:{freq:40,list:[22092, 22655, 23646, 24170, 24695, 25351, 25708, 27438, 27459, 28340, 29140, 29455, 30071, 30505, 31094, 33067, 33595, 34263, 34452, 35119, 35506, 35630, 36620, 36788, 36986, 37027, 37495, 39981, 40315, 41558, 41602, 42351, 43546, 43549, 44589, 47204, 48756, 49491, 51226, 52814],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikbkb:{freq:30,list:[1397, 1399, 1551, 1664, 1914, 2154, 2267, 2296, 2318, 2361, 2523, 2611, 2800, 2840, 2937, 3113, 3170, 3202, 3215, 3384, 3571, 3660, 3671, 3744, 3771, 3890, 4156, 4203, 4262, 4329],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikm:{freq:24,list:[23646, 24695, 25351, 26909, 27438, 28340, 30505, 31094, 34421, 34452, 37495, 38404, 39981, 40315, 40592, 40986, 41558, 41821, 42120, 43549, 44589, 44606, 51226, 52814],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikzf:{freq:21,list:[1352, 1735, 1758, 1842, 2113, 2171, 2318, 2361, 2523, 2611, 2738, 2790, 2937, 3202, 3215, 3316, 3601, 3671, 3823, 4262, 4329],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ik:{freq:20,list:[1459, 2738, 3129, 3215, 3384, 3601, 3671, 3771, 5268, 5275, 21758, 25239, 25548, 32951, 34149, 36683, 39077, 45385, 48143, 52260],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikmlkekqgh:{freq:19,list:[8125, 8815, 8943, 9134, 9487, 9696, 9917, 10193, 10929, 11097, 11525, 12754, 12829, 13768, 15100, 15375, 15450, 15504, 15562],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikat:{freq:15,list:[78, 99, 104, 109, 117, 144, 550, 735, 743, 930, 933, 1091, 1198, 1273, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ike:{freq:15,list:[6048, 7853, 23960, 25276, 27052, 36829, 37685, 40765, 42196, 44434, 44848, 49968, 51146, 53305, 53658],bold:[44434],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikmeanspush:{freq:14,list:[22092, 22655, 23646, 24170, 33067, 33595, 36620, 36788, 36986, 41602, 42351, 44589, 47204, 52814],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikbkap:{freq:13,list:[1551, 1637, 1842, 2113, 2318, 2523, 2800, 3113, 3170, 3215, 3571, 3771, 3823],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ika:{freq:10,list:[293, 325, 479, 559, 563, 640, 982, 1032, 1053, 1229],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikbip:{freq:9,list:[1352, 1758, 1928, 2118, 2130, 2234, 2790, 3215, 3735],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikmacc:{freq:9,list:[25351, 27438, 31094, 34452, 39981, 40315, 41558, 48756, 51226],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikbkg:{freq:7,list:[1399, 1551, 2800, 3113, 3215, 3771, 4156],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikon:{freq:5,list:[6048, 7853, 25276, 42196, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikmeanshist:{freq:5,list:[23646, 33067, 36620, 36986, 52814],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikant:{freq:4,list:[418, 500, 836, 1073],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikmva:{freq:4,list:[10390, 11439, 14747, 15763],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikemoto:{freq:4,list:[20074, 20088, 20097, 20267],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+iki:{freq:3,list:[2318, 3771, 19847],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikeda:{freq:3,list:[43545, 49338, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikorean:{freq:2,list:[204, 1203],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+iknpwkhkcqg:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikiagxltgkgtygjqnr:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikkbetanemobind:{freq:2,list:[2318, 3771],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikk:{freq:2,list:[2800, 3113],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikba:{freq:2,list:[2800, 3113],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikou:{freq:2,list:[25276, 42196],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikastan:{freq:2,list:[30657, 32752],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikey:{freq:2,list:[31692, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikp:{freq:2,list:[34578, 39256],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikuenob:{freq:2,list:[37458, 43113],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikta:{freq:1,list:[586],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikbk:{freq:1,list:[3170],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikasan:{freq:1,list:[16946],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikvm:{freq:1,list:[16946],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikokoon:{freq:1,list:[16946],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+iklan:{freq:1,list:[19587],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikram:{freq:1,list:[30045],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikkk:{freq:1,list:[30657],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+iknow:{freq:1,list:[31900],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikxdz:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+iklpquv:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikkqg:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikdndrrbi:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+iktpo:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikyzamph:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikpiyng:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+iksjdesqzf:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+iknbgessfjxblknbgessfjxblknbgessfjxblknbgessffzeif:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikpj:{freq:1,list:[34578],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikco:{freq:1,list:[36723],bold:[36723],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikawa:{freq:1,list:[36766],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikuenobea:{freq:1,list:[37458],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikemattam:{freq:1,list:[43545],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikeb:{freq:1,list:[43545],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikt:{freq:1,list:[49818],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikhnaton:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikkela:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikebana:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+ikhaj:{freq:1,list:[51134],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}

@@ -1,0 +1,35 @@
+fjhkpnqyzkazaf:{freq:48,list:[8341, 8740, 8766, 8913, 9049, 9283, 9315, 9349, 9538, 9665, 9733, 10071, 10106, 10299, 10329, 10471, 10530, 10733, 11254, 11288, 11463, 11711, 11788, 11818, 11930, 11959, 11974, 12273, 12353, 12356, 12436, 12591, 12675, 12836, 13130, 13424, 13743, 13904, 13955, 14342, 14543, 14612, 14620, 14723, 14743, 14930, 15481, 15580],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fj:{freq:8,list:[15953, 25813, 32986, 34149, 37072, 47838, 51833, 52279],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fjord:{freq:5,list:[6048, 7853, 25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fjeld:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fjkkjcjeztywbtvaxmzkyxcwdhbxi:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fjknjcg:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fjnkicdbvxsrdopbzvqbki:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fjp:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fjhkispksauvbufut:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fjhkisa:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fjfux:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fjordlin:{freq:2,list:[6048, 7853],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fjspx:{freq:2,list:[16935, 16936],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fjb:{freq:2,list:[37072, 47838],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fje:{freq:2,list:[37072, 47838],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fjob:{freq:1,list:[590],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fjx:{freq:1,list:[1758],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fjztvkxkeyxkfqcgdeqxvyndyymdk:{freq:1,list:[12501],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fjqg:{freq:1,list:[23532],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fjfsyacm:{freq:1,list:[32097],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fjqeuhf:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fjhf:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fjcc:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fjgubmgsuvtjhbue:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fjfbi:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fjj:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fjlg:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fjhomtrv:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fjepzfnwxmaq:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fjuv:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fjn:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fjxvn:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fjno:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fjournal:{freq:1,list:[44810],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+fjordic:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}

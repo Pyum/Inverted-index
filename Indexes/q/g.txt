@@ -1,0 +1,18 @@
+qg:{freq:8,list:[10390, 11439, 14747, 15763, 22533, 32097, 34149, 45425],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qgram:{freq:6,list:[5887, 5909, 6638, 6775, 6800, 6910],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qgcon:{freq:6,list:[20006, 53828, 54170, 54326, 54385, 55233],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qgd:{freq:3,list:[2086, 2314, 34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qgl:{freq:3,list:[5776, 6046, 7448],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qged:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qgen:{freq:2,list:[28552, 42817],bold:[],title:[28552],header:{'h1': [28552], 'h2': [], 'h3': []}}
+qgamma:{freq:2,list:[45352, 51629],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qgeom:{freq:1,list:[16829],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qgxor:{freq:1,list:[30750],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qgxtgi:{freq:1,list:[32097],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qgnxj:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qgg:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qgltw:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qgjqiyqqomgcabkjw:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qgbgcmzfd:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qgk:{freq:1,list:[40524],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qgf:{freq:1,list:[40524],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}

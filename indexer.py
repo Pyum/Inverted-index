@@ -11,7 +11,7 @@ UniqueWords = set()
 
 def clearTxtFiles():
     for _file in "abcdefghijklmnopqrstuvwxyz":
-        for _subfile in "abcdefghijklmnopqrstuvwxyz":
+        for _subfile in "0abcdefghijklmnopqrstuvwxyz":
             open("indexes/" + _file + "/" + _subfile + ".txt", 'w').close()
     open("indexes/LinkIndex.txt", 'w').close()
 
@@ -231,15 +231,6 @@ def getlinks(_listOfDocID):
     for _docID in _listOfDocID:
         _finList.append(LinkIndex[int(_docID)])
     return _finList
-    _finList = []
-    for _folder in os.listdir("DEV"):
-        for _file in os.listdir("DEV/" + _folder):
-            _docID += 1
-            if _docID in _listOfDocID:
-                f = open("DEV/" + _folder + "/" + _file)
-                _fileData = json.load(f)
-                _finList.append(_fileData["url"])
-    return _finList
 
 def GetLinkIndexTxt():
     global LinkIndex
@@ -264,7 +255,7 @@ def FillLinkIndexTxt():
 def main():
     global UniqueWords, InvertedIndex
     nltk.download('punkt')
-    makeIndex = True #Ran on 3/5/23 @ 1:17AM Ended @ 2:52AM
+    makeIndex = False #Ran on 3/5/23 @ 1:17AM Ended @ 2:52AM
     askQuery = True
     if makeIndex:
         clearTxtFiles()

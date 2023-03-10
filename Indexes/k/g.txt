@@ -1,0 +1,59 @@
+kgkhg:{freq:440,list:[7970, 7971, 7984, 7995, 8009, 8018, 8035, 8061, 8064, 8077, 8095, 8097, 8140, 8182, 8241, 8244, 8259, 8264, 8293, 8312, 8338, 8344, 8345, 8367, 8439, 8447, 8456, 8460, 8461, 8472, 8492, 8499, 8506, 8510, 8561, 8609, 8619, 8620, 8624, 8634, 8643, 8655, 8692, 8732, 8737, 8748, 8760, 8761, 8775, 8792, 8838, 8842, 8863, 8879, 8908, 8920, 8924, 8929, 8951, 8965, 8975, 9003, 9004, 9008, 9027, 9029, 9052, 9056, 9059, 9072, 9094, 9113, 9144, 9186, 9205, 9212, 9260, 9271, 9276, 9294, 9303, 9337, 9350, 9361, 9364, 9365, 9372, 9375, 9386, 9394, 9431, 9463, 9516, 9568, 9612, 9613, 9619, 9633, 9687, 9732, 9740, 9742, 9757, 9786, 9793, 9803, 9824, 9840, 9863, 9864, 9871, 9873, 9881, 9913, 9936, 9951, 9966, 9975, 9980, 9985, 9987, 10010, 10041, 10137, 10157, 10165, 10173, 10205, 10228, 10263, 10274, 10291, 10303, 10326, 10360, 10372, 10375, 10433, 10449, 10481, 10509, 10528, 10538, 10544, 10550, 10553, 10561, 10570, 10572, 10579, 10609, 10621, 10641, 10652, 10687, 10691, 10707, 10720, 10722, 10754, 10760, 10763, 10767, 10774, 10780, 10803, 10856, 10900, 10906, 10918, 10928, 10932, 10940, 10967, 10968, 11012, 11049, 11062, 11075, 11083, 11119, 11154, 11157, 11167, 11179, 11186, 11212, 11235, 11247, 11298, 11313, 11330, 11347, 11350, 11384, 11389, 11390, 11445, 11527, 11543, 11551, 11563, 11572, 11589, 11608, 11663, 11668, 11678, 11682, 11687, 11715, 11731, 11739, 11751, 11781, 11824, 11825, 11829, 11836, 11839, 11840, 11852, 11867, 11870, 11886, 11891, 11910, 11915, 11921, 11924, 11978, 11983, 12014, 12034, 12037, 12038, 12043, 12066, 12120, 12167, 12174, 12182, 12223, 12234, 12252, 12257, 12265, 12315, 12318, 12326, 12337, 12343, 12354, 12355, 12375, 12410, 12423, 12434, 12435, 12454, 12463, 12497, 12523, 12540, 12559, 12568, 12593, 12643, 12654, 12679, 12688, 12703, 12704, 12709, 12711, 12767, 12801, 12809, 12810, 12886, 12887, 12892, 12900, 12922, 12935, 12975, 12995, 12996, 13010, 13034, 13059, 13084, 13087, 13098, 13115, 13118, 13121, 13134, 13140, 13146, 13155, 13169, 13188, 13194, 13216, 13255, 13260, 13268, 13340, 13385, 13400, 13430, 13463, 13491, 13496, 13498, 13500, 13513, 13572, 13601, 13654, 13666, 13762, 13868, 13869, 13873, 13889, 13973, 13989, 14002, 14024, 14036, 14037, 14052, 14075, 14080, 14092, 14097, 14110, 14113, 14121, 14122, 14181, 14186, 14200, 14217, 14237, 14264, 14301, 14309, 14317, 14322, 14324, 14333, 14362, 14389, 14397, 14399, 14410, 14430, 14492, 14493, 14494, 14508, 14528, 14535, 14547, 14576, 14579, 14596, 14607, 14618, 14651, 14654, 14705, 14708, 14759, 14772, 14791, 14824, 14838, 14842, 14887, 14889, 14910, 14928, 14931, 14935, 14956, 14965, 14967, 14975, 14991, 14994, 15020, 15024, 15038, 15075, 15083, 15122, 15135, 15169, 15185, 15192, 15207, 15233, 15243, 15252, 15269, 15282, 15284, 15296, 15298, 15326, 15354, 15355, 15361, 15414, 15415, 15435, 15437, 15474, 15501, 15510, 15518, 15530, 15537, 15545, 15552, 15578, 15624, 15634, 15656, 15662, 15677, 15686, 15747, 15754, 15839, 15845],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kg:{freq:11,list:[447, 502, 785, 906, 1084, 22388, 28835, 32195, 34149, 34651, 44393],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgttgccatggcaa:{freq:4,list:[3028, 3030, 3717, 3826],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgb:{freq:4,list:[25276, 34149, 42196, 45425],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgajulap:{freq:3,list:[27596, 45319, 45390],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kggoaaaansuheugaaakaaaab:{freq:3,list:[32097, 40524, 51134],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgcgtma:{freq:2,list:[1424, 1982],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgtagt:{freq:2,list:[1600, 2943],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kggoaaaansuheugaaabaaaaaqcamaaaaolq:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kggoaaaansuheugaaabaaaaaqcaqaaac:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgymcfdkujywtiukjv:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgeagz:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgijygymjlclq:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgyukcrt:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgxvifxvaqzi:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kggoaaaansuheugaaaaeaaabkeaaaaaay:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kggoaaaansuheugaaaaeaaagqeaaaaaaao:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kggoaaaansuheugaaaaeaaagqaqaaaabhizd:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kggoaaaansuheugaaaaeaaagqeaiaaacwqkhpaaaabgdbtueaalgpc:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kggoaaaansuheugaaaaeaaaabcaqaaac:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kggi:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kggoaaaansuheugaaaa:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kggoaaaansuheugaaab:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kggoaaaansuheugaaabaaaaaqcayaaaaf:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kggoaaaansuheugaaaaeaaaascayaaacav:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kggoaaaansuheugaaaaoaaaascayaaabit:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kggoaaaansuheugaaaaeaaaaecaiaaabi:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgamma:{freq:2,list:[2800, 3113],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgon:{freq:2,list:[32899, 43765],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kggoaaaansuheugaaaeaaaafocayaaacpnyggaaaohuleqvr:{freq:2,list:[40524, 51134],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgwater:{freq:1,list:[447],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgane:{freq:1,list:[1048],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgclg:{freq:1,list:[12501],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgojhvktpwg:{freq:1,list:[12501],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgjoc:{freq:1,list:[12501],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgp:{freq:1,list:[18001],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgcom:{freq:1,list:[23763],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgd:{freq:1,list:[32097],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kggoaaaansuheugaaaeaaaafocayaaacpnyggaaactuleqvr:{freq:1,list:[32097],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kggoaaaansuheugaaaxoaaad:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgxqpmkj:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kggoaaaansuheugaaaxyaaad:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgeunwz:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgal:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgpdxz:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kggoaaaansuheugaaaxiaaad:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgn:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kggoaaaansuheugaaasuaaadhcayaaadxnc:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgce:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgntre:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgff:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgm:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgzd:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgsa:{freq:1,list:[41379],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgc:{freq:1,list:[41379],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgotla:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgl:{freq:1,list:[51134],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgvvlww:{freq:1,list:[51134],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+kgart:{freq:1,list:[53541],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}

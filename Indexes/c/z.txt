@@ -1,0 +1,251 @@
+czarna:{freq:90,list:[22274, 22529, 23232, 24192, 24350, 25736, 25794, 26223, 26621, 26808, 27070, 27182, 27700, 28157, 28386, 28977, 29741, 30271, 30461, 30699, 30793, 30904, 31020, 31034, 31067, 31353, 31403, 32909, 33114, 33661, 33888, 34260, 34466, 34525, 34956, 35104, 35661, 35845, 36047, 36266, 37044, 37145, 37185, 37483, 37806, 37996, 38029, 38037, 38361, 39214, 39343, 39373, 40602, 40653, 41156, 41873, 42069, 42217, 42837, 43204, 43251, 43807, 44578, 44661, 45250, 45614, 46030, 46165, 46315, 46870, 47152, 47228, 47568, 48228, 49063, 49385, 49987, 50205, 50222, 50425, 50457, 50661, 51268, 51401, 52495, 52807, 52978, 53255, 53339, 53412],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czech:{freq:80,list:[61, 16748, 17236, 17655, 19635, 19800, 21190, 21200, 21305, 22339, 23343, 23507, 23593, 24156, 24219, 24282, 25222, 25239, 25276, 25792, 25827, 25898, 26383, 27309, 27427, 30461, 31479, 32151, 32574, 32715, 32899, 32951, 33463, 33930, 33999, 34737, 36827, 37087, 37099, 37343, 37885, 37949, 38491, 38904, 38935, 39120, 39412, 39453, 39874, 39919, 41861, 42196, 42678, 43088, 43317, 43756, 43838, 44130, 44635, 44642, 45077, 45705, 47170, 47210, 48555, 48640, 49716, 49814, 49871, 49968, 50740, 52490, 53445, 54109, 54154, 54238, 54467, 54682, 54797, 54920],bold:[],title:[23343, 39120],header:{'h1': [], 'h2': [23343, 39120], 'h3': []}}
+czestochowa:{freq:46,list:[22062, 22280, 23827, 23960, 24262, 25794, 27898, 28215, 28872, 30915, 30940, 30951, 31201, 32119, 33213, 33269, 33888, 34751, 35035, 38003, 38614, 38985, 39558, 39599, 39889, 40870, 41196, 41926, 42612, 45756, 46870, 47005, 47221, 49277, 49433, 49498, 49968, 50057, 50222, 51221, 51466, 51829, 52495, 52807, 53205, 53255],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czewa:{freq:43,list:[23065, 23476, 23494, 23657, 24588, 25838, 28836, 28876, 30155, 30877, 31327, 31598, 32119, 33147, 33833, 36000, 38054, 38177, 38614, 38658, 39219, 39379, 39625, 40916, 41092, 41353, 41497, 41627, 41982, 42236, 42723, 43559, 43818, 47144, 47221, 47568, 49014, 50754, 51227, 52318, 52605, 52613, 53473],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czechoslovakia:{freq:40,list:[21949, 23119, 23478, 23633, 24262, 24300, 26734, 26947, 28066, 28704, 30699, 31019, 31403, 32854, 33789, 34489, 35349, 35551, 35661, 35826, 36254, 37606, 37967, 38054, 41218, 41323, 42105, 43033, 44452, 46870, 47369, 47850, 48314, 49968, 49979, 50425, 52045, 52613, 53291, 53412],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czarn:{freq:31,list:[23065, 23478, 24300, 24808, 25824, 25943, 28161, 30864, 32660, 37044, 37145, 38054, 38783, 40026, 40346, 42069, 42089, 43595, 44505, 45250, 45614, 46315, 47228, 47871, 48295, 49261, 51227, 52407, 53166, 53255, 53406],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+cz:{freq:18,list:[61, 72, 1967, 16946, 22533, 25609, 29927, 30271, 34149, 39453, 40899, 42456, 43795, 43963, 45699, 45742, 46252, 48148],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czeslawa:{freq:12,list:[23827, 27595, 29489, 31067, 31598, 36347, 40452, 41156, 44264, 50454, 51866, 52613],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czosnek:{freq:12,list:[23960, 27595, 27791, 33954, 36241, 36243, 42069, 45614, 46315, 48115, 52128, 53314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czerwoni:{freq:12,list:[25827, 27796, 31034, 33062, 36047, 36133, 37820, 41183, 42612, 49716, 52780, 53255],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czarni:{freq:10,list:[23657, 24262, 32126, 39089, 39453, 42069, 47568, 49979, 50205, 53412],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czew:{freq:9,list:[24749, 25413, 38054, 38985, 39373, 41092, 41627, 42217, 44264],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czapnik:{freq:9,list:[27123, 28161, 31020, 41196, 46315, 46881, 51190, 51610, 52613],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czapnicki:{freq:7,list:[21949, 23065, 24808, 28704, 44505, 46315, 52027],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czeslaw:{freq:7,list:[22536, 23476, 25271, 30951, 32119, 36936, 46315],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czernichow:{freq:6,list:[22179, 24009, 34751, 39889, 46056, 49716],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czar:{freq:6,list:[25239, 28835, 32951, 47625, 47636, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czerniowc:{freq:6,list:[35772, 37885, 38054, 47566, 49477, 53181],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czerwinski:{freq:5,list:[23731, 28634, 36889, 52504, 53526],bold:[],title:[52504],header:{'h1': [], 'h2': [], 'h3': []}}
+czudec:{freq:5,list:[24300, 33968, 38713, 44384, 46056],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czetochowa:{freq:5,list:[26621, 33269, 35772, 47221, 51221],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czernowitz:{freq:5,list:[31019, 40602, 42723, 49968, 50057],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czerni:{freq:4,list:[463, 27046, 39453, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czechoslovak:{freq:4,list:[25239, 32951, 35349, 49968],bold:[35349],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czlowiek:{freq:4,list:[25276, 27123, 42196, 51190],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czchow:{freq:4,list:[27558, 48314, 50457, 51466],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czyzyni:{freq:4,list:[28099, 36552, 36936, 47023],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czv:{freq:3,list:[9134, 12754, 13687],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czarevitch:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czarevna:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czarina:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czerniowic:{freq:3,list:[27898, 37885, 40653],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czi:{freq:3,list:[29927, 39453, 48622],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czerel:{freq:3,list:[32214, 37145, 40675],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czechowka:{freq:3,list:[36693, 39210, 42310],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czestochow:{freq:3,list:[40493, 42612, 49915],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czortel:{freq:3,list:[42069, 45614, 46348],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+cztmttqexz:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czzdqoowf:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czwfhma:{freq:2,list:[11724, 12501],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czvf:{freq:2,list:[21998, 40117],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czyzi:{freq:2,list:[23272, 27574],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czeski:{freq:2,list:[23750, 44264],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czw:{freq:2,list:[25276, 42196],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czigelka:{freq:2,list:[25458, 43783],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czoreth:{freq:2,list:[25609, 42069],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czynciel:{freq:2,list:[27046, 39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czarownik:{freq:2,list:[27123, 51190],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czeladnik:{freq:2,list:[27123, 51190],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czucker:{freq:2,list:[27173, 28977],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czajkowski:{freq:2,list:[27522, 39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czarnica:{freq:2,list:[27898, 33062],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czechowski:{freq:2,list:[29903, 39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czestochowski:{freq:2,list:[30163, 32119],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czernichowa:{freq:2,list:[30940, 38783],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czak:{freq:2,list:[35661, 39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czarnaw:{freq:2,list:[35715, 36735],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czerniow:{freq:2,list:[38128, 50057],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czarnawi:{freq:2,list:[39214, 41183],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czapka:{freq:2,list:[39453, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czechia:{freq:2,list:[41353, 53445],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czortkow:{freq:2,list:[41627, 43862],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czumaj:{freq:2,list:[49228, 51885],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czerwinksi:{freq:2,list:[55006, 55015],bold:[55006, 55015],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czerniak:{freq:1,list:[968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czyz:{freq:1,list:[15953],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czaplinski:{freq:1,list:[19545],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czechoslocakia:{freq:1,list:[21949],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czarnochowic:{freq:1,list:[22274],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czechowki:{freq:1,list:[22536],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czarica:{freq:1,list:[23519],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czermno:{freq:1,list:[24219],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czeriowc:{freq:1,list:[24279],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czudek:{freq:1,list:[24588],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czulow:{freq:1,list:[25167],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czortowiec:{freq:1,list:[25736],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czaschz:{freq:1,list:[27046],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czesznak:{freq:1,list:[27046],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czasch:{freq:1,list:[27046],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czynszowi:{freq:1,list:[27123],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czudnowski:{freq:1,list:[27182],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czemmuszika:{freq:1,list:[27462],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czinger:{freq:1,list:[27522],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czernowca:{freq:1,list:[27701],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czize:{freq:1,list:[28066],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czestocho:{freq:1,list:[28215],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czerniowa:{freq:1,list:[28704],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czernowic:{freq:1,list:[28803],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czaniec:{freq:1,list:[29294],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czyli:{freq:1,list:[29927],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+cznik:{freq:1,list:[29927],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czytelnika:{freq:1,list:[29927],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czulowek:{freq:1,list:[30221],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czodek:{freq:1,list:[30221],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czarnocini:{freq:1,list:[30271],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czchowa:{freq:1,list:[30314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czarnozyl:{freq:1,list:[30697],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czwojdrak:{freq:1,list:[30793],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czerowitz:{freq:1,list:[31019],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czpera:{freq:1,list:[31327],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czaslaw:{freq:1,list:[31353],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+cziment:{freq:1,list:[32854],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czg:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czjc:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czqo:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czclwxdonxayoh:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czglntdoe:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czlfp:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czjeorokstmvdfjxgt:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czevm:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czoxjliej:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czechi:{freq:1,list:[34525],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czynioni:{freq:1,list:[34702],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czarnocki:{freq:1,list:[34751],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czgstochowa:{freq:1,list:[34751],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czartoryski:{freq:1,list:[34751],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czestochau:{freq:1,list:[35035],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czernovitz:{freq:1,list:[36347],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czastaw:{freq:1,list:[37276],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czostowic:{freq:1,list:[37899],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czaplinek:{freq:1,list:[38003],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czemierniki:{freq:1,list:[38003],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czempin:{freq:1,list:[38003],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czersk:{freq:1,list:[38003],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czerwinsk:{freq:1,list:[38003],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czlopa:{freq:1,list:[38003],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czyzew:{freq:1,list:[38003],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czeszyn:{freq:1,list:[38037],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czk:{freq:1,list:[38491],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czanca:{freq:1,list:[38614],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czernina:{freq:1,list:[39077],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czaputowicz:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czkowski:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czeko:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czadek:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czarnowski:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+cze:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czerwi:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czaykowski:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czecz:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czyk:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czaderski:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czechowicz:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czajewicz:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czekieruk:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czarowski:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czajk:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czapli:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czek:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czarnek:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czarniecki:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czerwenka:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czelni:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czubak:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czapik:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czopek:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czapkiewicz:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czerkawski:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czka:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czaicki:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czewski:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czarnecki:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czubi:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czekaj:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czajka:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czni:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czaja:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czort:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czcibor:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czernecki:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czubernat:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czykowski:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czepiec:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czernecka:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czkiewicz:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czarkowski:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czajkowska:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czernicka:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czermak:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czajecka:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czajczyk:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czapla:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czepiel:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czarnecka:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czkowska:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czernik:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czuba:{freq:1,list:[39453],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czermowc:{freq:1,list:[39814],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czernichowek:{freq:1,list:[39889],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czaktornya:{freq:1,list:[40231],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czekowic:{freq:1,list:[40420],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czri:{freq:1,list:[40524],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czerwonka:{freq:1,list:[40567],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czyzewicz:{freq:1,list:[41183],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czerwonego:{freq:1,list:[41183],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czarnolewski:{freq:1,list:[41627],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czteroletnego:{freq:1,list:[41665],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czarnijirsi:{freq:1,list:[41873],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czipe:{freq:1,list:[42069],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czypera:{freq:1,list:[42069],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czulec:{freq:1,list:[42131],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czermow:{freq:1,list:[42723],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czchowic:{freq:1,list:[44661],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czeladz:{freq:1,list:[45055],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czheth:{freq:1,list:[45425],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czl:{freq:1,list:[45425],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czhrzu:{freq:1,list:[45425],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czarner:{freq:1,list:[45614],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czernowa:{freq:1,list:[45642],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czartkow:{freq:1,list:[45742],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czerna:{freq:1,list:[46315],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czaki:{freq:1,list:[46315],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czapnicka:{freq:1,list:[46315],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czepnik:{freq:1,list:[46315],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czernichowski:{freq:1,list:[46315],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czernidlo:{freq:1,list:[46315],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czeveckebaum:{freq:1,list:[46315],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czatow:{freq:1,list:[46315],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czyza:{freq:1,list:[46315],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czyzowicz:{freq:1,list:[46607],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czopp:{freq:1,list:[47566],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czegowska:{freq:1,list:[47850],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czermin:{freq:1,list:[48314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czechoslovalia:{freq:1,list:[48591],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czx:{freq:1,list:[48622],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czesia:{freq:1,list:[49014],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czaba:{freq:1,list:[49063],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czerw:{freq:1,list:[49193],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czyslochowa:{freq:1,list:[49688],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czae:{freq:1,list:[49818],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czarra:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czechic:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czechish:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czechoslovakian:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czarda:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czardas:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czardom:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czarevich:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czarism:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czarist:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czaritsa:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czaritza:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czechow:{freq:1,list:[50457],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czolgacz:{freq:1,list:[50457],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czebnel:{freq:1,list:[51134],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czynszowego:{freq:1,list:[51190],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czestowi:{freq:1,list:[51227],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czyzewo:{freq:1,list:[51466],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czerner:{freq:1,list:[52407],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czype:{freq:1,list:[52780],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+czerniowiec:{freq:1,list:[52978],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}

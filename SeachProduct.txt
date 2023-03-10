@@ -1,8 +1,8 @@
-https://emj.ics.uci.edu/papers/machine-learning-papers/#content
-https://emj.ics.uci.edu/papers/machine-learning-papers/
-https://mcs.ics.uci.edu/about/course-descriptions/
-http://computableplant.ics.uci.edu/people.html
-http://computableplant.ics.uci.edu/
+https://www.ics.uci.edu/~ejw/authoring/orem/namespace/tsld013.htm
+https://www.ics.uci.edu/~ejw/authoring/orem/namespace/tsld011.htm
+https://www.ics.uci.edu/~ejw/authoring/munich/overview/tsld014.htm
+https://www.ics.uci.edu/~ejw/authoring/orem/namespace/tsld015.htm
+https://www.ics.uci.edu/~ejw/authoring/orem/namespace/tsld012.htm
 
-Query was:learning machine
-The search took 0.9970664978027344 milliseconds
+Query was:index
+The search took 495.17130851745605 milliseconds

@@ -1,0 +1,31 @@
+yr:{freq:45,list:[293, 479, 500, 563, 662, 800, 866, 878, 1032, 1073, 2086, 2314, 17549, 17719, 17798, 18593, 22722, 23769, 25413, 25739, 25861, 25917, 26656, 26820, 29350, 31076, 31243, 31900, 34149, 34500, 36254, 36492, 37209, 37627, 38892, 39282, 40412, 43121, 44854, 45425, 45699, 47187, 47519, 48210, 55250],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yrdc:{freq:10,list:[1842, 2113, 2318, 2523, 2532, 2611, 2937, 3215, 3771, 4262],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yresolut:{freq:7,list:[23198, 29072, 35670, 38690, 42496, 47243, 49373],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yrl:{freq:6,list:[17252, 17319, 17643, 18148, 18259, 19085],bold:[],title:[18148],header:{'h1': [], 'h2': [17319, 17643, 18259], 'h3': []}}
+yrscostx:{freq:4,list:[27007, 43139, 45278, 49135],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yrsold:{freq:3,list:[11194, 13790, 15607],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yrjo:{freq:3,list:[27066, 33216, 37703],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yrsserv:{freq:2,list:[204, 1203],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yre:{freq:2,list:[829, 34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yrq:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yrap:{freq:2,list:[25239, 32951],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yreka:{freq:2,list:[37606, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yrm:{freq:1,list:[829],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yresolu:{freq:1,list:[34097],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yrxh:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yrjxvuoph:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yrshbv:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yrp:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yrabodrxi:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yrdigkydonehtt:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yrlzb:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yrx:{freq:1,list:[43762],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yrz:{freq:1,list:[43762],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yrand:{freq:1,list:[45699],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yrb:{freq:1,list:[46700],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yrvbirqr:{freq:1,list:[49818],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yrapt:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yrent:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yrivd:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yrneh:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+yryfxqtx:{freq:1,list:[51134],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}

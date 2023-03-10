@@ -1,0 +1,70 @@
+qa:{freq:39,list:[124, 1305, 2086, 2314, 4487, 4505, 4530, 4571, 4597, 4733, 16472, 19587, 21205, 21345, 21731, 25547, 27066, 28481, 31897, 32079, 34149, 35690, 37703, 38034, 38995, 41008, 42537, 42944, 45763, 46164, 48622, 54208, 54402, 54418, 54599, 54643, 54756, 54814, 54919],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qar:{freq:19,list:[1352, 1459, 1664, 1914, 2234, 2267, 2296, 2435, 2738, 2840, 3129, 3202, 3384, 3601, 3660, 3671, 3744, 4203, 4262],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qatar:{freq:10,list:[17500, 18593, 19587, 21247, 23162, 23298, 25525, 27428, 37420, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qader:{freq:5,list:[1300, 16475, 16551, 44735, 48099],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qap:{freq:4,list:[42, 6048, 7853, 43545],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qav:{freq:4,list:[784, 933, 2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qab:{freq:3,list:[5021, 38702, 48099],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qasim:{freq:3,list:[37464, 37508, 41681],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qacjvoqqhpwepjgjvmabbbtvlaxhagwmda:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qackzlspcztyxasoyd:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qasni:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qaaaaasuvork:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qaad:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qaaaahdelnrqfgcq:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qaaaaaaad:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qaaabl:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qapplic:{freq:2,list:[29008, 40469],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qaba:{freq:2,list:[32899, 43765],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qae:{freq:2,list:[37072, 47838],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qaepaxk:{freq:2,list:[37072, 47838],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qaepaxxz:{freq:2,list:[37072, 47838],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qaehi:{freq:2,list:[37072, 47838],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qaexpax:{freq:2,list:[37072, 47838],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qaeaav:{freq:2,list:[37072, 47838],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qaexaav:{freq:2,list:[37072, 47838],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qaehxz:{freq:2,list:[37072, 47838],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qaepaxpaxk:{freq:2,list:[37072, 47838],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qaehiaav:{freq:2,list:[37072, 47838],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qaexxz:{freq:2,list:[37072, 47838],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qalab:{freq:1,list:[16946],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qadefect:{freq:1,list:[16946],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qarqa:{freq:1,list:[16946],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qavei:{freq:1,list:[22533],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qaxdoaasdetkzabqhtvbf:{freq:1,list:[22533],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qan:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qaiiy:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qaazyc:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qarmzugvukopbtb:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qanwctmjtimogdfvndnh:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qaacowjyt:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qal:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qatuxyr:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qakcq:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qaragholi:{freq:1,list:[40738],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qam:{freq:1,list:[43545],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qauntum:{freq:1,list:[46451],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qabc:{freq:1,list:[48622],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qabalah:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qaddafi:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qaddish:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qaddishim:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qadhafi:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qajar:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qanta:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qatari:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qabala:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qabal:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qabalist:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qadi:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qaid:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qaimaqam:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qalamdan:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qanat:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qasida:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qat:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qawwal:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qawwali:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qaund:{freq:1,list:[50198],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qafyxyovqvnhaj:{freq:1,list:[51134],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+qasid:{freq:1,list:[51703],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}

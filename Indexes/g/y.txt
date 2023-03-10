@@ -1,0 +1,199 @@
+gym:{freq:38,list:[444, 10197, 11626, 12225, 16046, 16070, 17103, 17266, 17712, 17796, 18173, 18266, 18340, 18684, 18840, 18879, 18987, 18995, 19587, 20003, 20429, 20442, 20521, 20643, 22917, 25239, 26095, 29199, 31463, 32951, 37031, 37493, 45425, 47588, 49968, 50614, 53926, 54683],bold:[26095],title:[17712],header:{'h1': [], 'h2': [17103, 17796, 18684], 'h3': []}}
+gyroscop:{freq:19,list:[20, 312, 440, 648, 762, 995, 1006, 1269, 7914, 7936, 16839, 17603, 18016, 18029, 18870, 19251, 25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyeongju:{freq:19,list:[25886, 25898, 27284, 28529, 30322, 30669, 30983, 32123, 32574, 32672, 32899, 36078, 36827, 38579, 39024, 42372, 49280, 49871, 52490],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gy:{freq:18,list:[1399, 1551, 2086, 2314, 2532, 2738, 2800, 3113, 3215, 3597, 3771, 4156, 22533, 23374, 29120, 30416, 34149, 51134],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gymnast:{freq:18,list:[6048, 7853, 10197, 11626, 12225, 20645, 20753, 20827, 20956, 20965, 21047, 21163, 25239, 32951, 36687, 44718, 46639, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gypsi:{freq:16,list:[25023, 25239, 25276, 25742, 27424, 27895, 30552, 32951, 33497, 33860, 38432, 42196, 48073, 49968, 50309, 52767],bold:[],title:[25742, 27895, 33497],header:{'h1': [], 'h2': [25742, 27895, 33497], 'h3': []}}
+gyltl:{freq:14,list:[1664, 1914, 2032, 2267, 2296, 2435, 2678, 2840, 3202, 3660, 3744, 3753, 3937, 4203],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyrat:{freq:7,list:[368, 1033, 2154, 3890, 25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyf:{freq:6,list:[2171, 2318, 2611, 2937, 3316, 3771],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyulnara:{freq:6,list:[33611, 35071, 47230, 48424, 54456, 55031],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyro:{freq:5,list:[467, 762, 1269, 47625, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyg:{freq:5,list:[1352, 2800, 3113, 3671, 4262],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gypsum:{freq:5,list:[6048, 7853, 25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gymnasium:{freq:5,list:[25239, 28259, 32951, 47588, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynaecolog:{freq:4,list:[315, 25239, 32951, 33139],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gymataaaah:{freq:4,list:[3028, 3030, 3717, 3826],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gycatcmatcat:{freq:4,list:[3028, 3030, 3717, 3826],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyu:{freq:4,list:[5031, 5096, 5119, 5139],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyoza:{freq:4,list:[23828, 42429, 49968, 50667],bold:[],title:[42429],header:{'h1': [], 'h2': [42429], 'h3': []}}
+gyosipho:{freq:3,list:[4791, 22486, 38193],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynecolog:{freq:3,list:[5044, 5100, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyj:{freq:3,list:[9025, 10268, 15605],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyaa:{freq:3,list:[22452, 39419, 52006],bold:[],title:[39419],header:{'h1': [], 'h2': [39419], 'h3': []}}
+gyve:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyal:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gymkhana:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gymmal:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gymnasi:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gymnasiarch:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gymnasiast:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gymnic:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gymnosophist:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gymnosperm:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyn:{freq:3,list:[25239, 31243, 32951],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynaeceum:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynandr:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynarchi:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyniolatri:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynocraci:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynoecium:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynophor:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyp:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gypseou:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gypsifer:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyral:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyrant:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyratori:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyre:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyrfalcon:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyroid:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyrom:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyron:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyronni:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyros:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyrostat:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyru:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyte:{freq:3,list:[25239, 32951, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyemant:{freq:3,list:[44655, 46829, 53412],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyri:{freq:2,list:[467, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyras:{freq:2,list:[916, 49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gygg:{freq:2,list:[1667, 2909],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gylgyggxhqchwlimakcak:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyfioxbi:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gybwyabqmqiz:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyfjpipnnuvd:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyfjpiplnu:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyhukfj:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gywdozwdo:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyraseb:{freq:2,list:[2318, 3771],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gypc:{freq:2,list:[2790, 3671],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gymbore:{freq:2,list:[6048, 7853],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyllenha:{freq:2,list:[11724, 12501],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gybe:{freq:2,list:[25239, 32951],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gye:{freq:2,list:[25239, 32951],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyle:{freq:2,list:[25239, 32951],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gymnit:{freq:2,list:[25239, 32951],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gymnocarp:{freq:2,list:[25239, 32951],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gymnogen:{freq:2,list:[25239, 32951],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gymnopaed:{freq:2,list:[25239, 32951],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gymnostom:{freq:2,list:[25239, 32951],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gymnotu:{freq:2,list:[25239, 32951],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynaecian:{freq:2,list:[25239, 32951],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynaec:{freq:2,list:[25239, 32951],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynaecocraci:{freq:2,list:[25239, 32951],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynand:{freq:2,list:[25239, 32951],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynandrian:{freq:2,list:[25239, 32951],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynanther:{freq:2,list:[25239, 32951],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyneocraci:{freq:2,list:[25239, 32951],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynobas:{freq:2,list:[25239, 32951],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gypsin:{freq:2,list:[25239, 32951],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gypsographi:{freq:2,list:[25239, 32951],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyrencephal:{freq:2,list:[25239, 32951],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyrogonit:{freq:2,list:[25239, 32951],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyse:{freq:2,list:[25239, 32951],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynt:{freq:2,list:[25276, 42196],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyawali:{freq:1,list:[332],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyrx:{freq:1,list:[467],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyrz:{freq:1,list:[467],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyr:{freq:1,list:[467],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyra:{freq:1,list:[916],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyrb:{freq:1,list:[916],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyamfi:{freq:1,list:[1023],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyamfik:{freq:1,list:[1023],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyrox:{freq:1,list:[1170],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyroy:{freq:1,list:[1170],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyroz:{freq:1,list:[1170],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gypa:{freq:1,list:[1352],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyctccc:{freq:1,list:[3465],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyoengyo:{freq:1,list:[24325],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyalla:{freq:1,list:[25457],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyongyo:{freq:1,list:[28872],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyoer:{freq:1,list:[29324],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gybkrsmtmatq:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyakubo:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyb:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyo:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gydnppqwc:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyfdxechpfnsmyvfnh:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyypsb:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynh:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyaagang:{freq:1,list:[39419],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyul:{freq:1,list:[41681],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyear:{freq:1,list:[42037],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyearmonth:{freq:1,list:[42037],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyula:{freq:1,list:[43299],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyorgi:{freq:1,list:[43299],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyorkvagasa:{freq:1,list:[43783],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyandzha:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyasi:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyatt:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyimah:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyli:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gymnasia:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gypsyish:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gytl:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gymbal:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gymnas:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gymnasien:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gymnorhin:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gymnosoph:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gymnosophi:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gymnospermi:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gymp:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gymslip:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynaecea:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynandri:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynandromorph:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynandromorphi:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynarch:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyne:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynecia:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynec:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynecium:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynecocraci:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynecocrat:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynecoid:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynecologist:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynecomastia:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynecopathi:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynephobia:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyniatr:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyniatri:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynocrat:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynodioeci:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynodioec:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynogenes:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynogenesi:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynogenet:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynomoneci:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynomonoec:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynophobia:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynophob:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gynostemium:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyni:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyplur:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gypper:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyppo:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gypseian:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gypsophila:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gypster:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gypsydom:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gypsyism:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gypsywort:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyren:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyrocar:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyrocompass:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyrocopt:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyrodyn:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyrofrequ:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyrolit:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyromagnet:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyropilot:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyroplan:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyrostabil:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyrou:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyrovagu:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyrus:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gytrash:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gyttja:{freq:1,list:[49968],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}

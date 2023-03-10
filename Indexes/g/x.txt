@@ -1,0 +1,22 @@
+gx:{freq:33,list:[5584, 6205, 6223, 6745, 6995, 7002, 19556, 22533, 23762, 24403, 26372, 27429, 28117, 28677, 29195, 34149, 36267, 36470, 36813, 38264, 39162, 39572, 40524, 41514, 42163, 42303, 44727, 44880, 44916, 45627, 47621, 51134, 53590],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gxt:{freq:20,list:[8017, 8091, 8738, 8971, 9172, 9950, 10663, 10748, 11452, 13633, 13741, 13784, 14136, 14787, 15173, 15177, 15209, 15654, 15783, 16946],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gxylt:{freq:8,list:[1397, 1448, 2113, 2318, 2523, 3113, 3823, 4329],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gxl:{freq:5,list:[29724, 34149, 38385, 38700, 45816],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gxyhnqrgvxdj:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gxnso:{freq:2,list:[2086, 2314],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gxh:{freq:2,list:[22533, 45724],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gxp:{freq:1,list:[16946],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gxdldn:{freq:1,list:[22533],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gxascbo:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gxaxvevkajiusi:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gxwpranm:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gxobq:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gxcliwhki:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gxw:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gxgorzui:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gxgupu:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gxnzbefiph:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gxxbvvde:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gxyv:{freq:1,list:[34149],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gxo:{freq:1,list:[49818],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
+gxsumhay:{freq:1,list:[51134],bold:[],title:[],header:{'h1': [], 'h2': [], 'h3': []}}
